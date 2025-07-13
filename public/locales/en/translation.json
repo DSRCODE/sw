@@ -1,0 +1,814 @@
+{
+  "title": "Welcome to our app!",
+  "description": "This is the English version.",
+  "join_our_panel": "Join Our Panel",
+  "getInTouch": "Get In Touch With Us",
+  "yourEmail": "Your Email",
+  "yourName": "Your Name",
+  "subject": "Subject",
+  "message": "Message",
+  "submit": "Submit",
+  "applyNow": "Apply Now",
+  "socialMedia": "Social Media",
+  "updatedPanelBook": "Updated Panel Book",
+  "enterYourEmail": "Enter your email address",
+  "download": "Download",
+  "readMore": "Read More",
+  "reach": "Our reach ",
+  "spanacross": "spans across",
+  "nav": {
+    "home": "Home",
+    "about_us": "About Us",
+    "our_services": "Our Services",
+    "code_of_conduct": "Code of Conduct",
+    "security_check": "Security Check",
+    "career": "Career"
+  },
+  "signin": {
+    "title": "Welcome back",
+    "subtitle": "Login to your account on Surventix and start exploring",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter password",
+    "forgotPassword": "Forgot password?",
+    "login": "Login",
+    "loggingIn": "Logging in...",
+    "noAccount": "Don't have an account?",
+    "register": "Register",
+    "alert": {
+      "verifyEmail": "Please verify your email before logging in."
+    },
+    "errors": {
+      "invalidEmail": "Invalid email address",
+      "emailRequired": "Email is required",
+      "passwordMin": "Password must be at least 6 characters",
+      "passwordRequired": "Password is required",
+      "invalidCredentials": "Invalid email or password"
+    }
+  },
+  "signup": {
+    "title": "Welcome to Surventix",
+    "subtitle": "Register to create your first account on Surventix and start exploring",
+    "nameLabel": "Name",
+    "namePlaceholder": "Enter your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "Enter password",
+    "register": "Register",
+    "registering": "Registering...",
+    "haveAccount": "Already have an account?",
+    "login": "Login",
+    "alert": {
+      "verificationSent": "A verification link has been sent to your email!"
+    },
+    "errors": {
+      "nameRequired": "Name is required",
+      "invalidEmail": "Invalid email address",
+      "emailRequired": "Email is required",
+      "invalidPhone": "Phone number is not valid",
+      "phoneRequired": "Phone number is required",
+      "passwordMin": "Password must be at least 6 characters",
+      "passwordRequired": "Password is required",
+      "emailInUse": "Email already in use or invalid"
+    }
+  },
+  "footer": {
+    "quick_links": "Quick Links",
+    "lets_connect": "Let’s Connect!",
+    "address": "7th Floor, DLF One Horizon Centre,\nDLF Phase 5, Sector 43, Gurugram,\nHaryana 122002",
+    "email": "sales@surventix.com",
+    "copyright": "Copyright © 2025 Surventix\nAll rights reserved. Powered by Surventix",
+    "description": "At Surventix, we are constantly redefining our approach to work and reimagining solutions to marketplace challenges.",
+    "address_line1": "7th Floor, DLF One Horizon Centre",
+    "address_line2": "DLF Phase 5, Sector 43, Gurugram",
+    "address_line3": "Haryana 122002",
+    "copyright_line1": "Copyright © 2025 Surventix",
+    "copyright_line2": "All rights reserved. Powered by Surventix"
+  },
+  "slides": {
+    "contact": "Contact Us",
+    "slide1": {
+      "heading": "Welcome to Surventix – Your Market Research Partner",
+      "intro1": "Why guess when you can know? At",
+      "intro2": "we turn raw numbers into game-changing insights that fuel smart business moves. Whether you're chasing hidden industry gems or scanning the global market for big-picture trends, we've got the data magic to keep you ahead of the curve. Accurate, reliable, and packed with impact—because in business, the best decisions are the ones backed by real intelligence",
+      "tagline": "Innovative research and tech services - Smart Research. Smarter Strategies. Stronger Results",
+      "detail": "is a leading online panel company, renowned for its extensive global reach and robust panel of 7.5 million active users worldwide"
+    },
+    "slide2": {
+      "heading": "Surventix – Smarter Research. Stronger Decisions. Bigger Impact.",
+      "intro1": "In today’s fast-moving market, staying ahead requires more than just data—it demands intelligent insights and actionable strategies. At",
+      "intro2": "we empower businesses with cutting-edge market research solutions that decode trends, understand consumer behaviour, and drive game-changing decisions.",
+      "tagline": "Turn Insights into Action with Surventix",
+      "detail1": "Let’s unlock opportunities, fuel growth, and shape the future—",
+      "detail2": "together"
+    },
+    "slide3": {
+      "heading": "Find the Trends Before They Find You.",
+      "intro1": "In a world drowning in data, making sense of it all is the real game-changer. That’s where",
+      "intro2": "steps in—we don’t just crunch numbers, we decode the story behind them. Whether you’re eyeing the next big market shift or trying to outsmart the competition, we bring you insights that actually matter.",
+      "tagline": "Surventix – Because Guesswork is So Last Season"
+    }
+  },
+  "about": {
+    "heading": "About Us",
+    "subheading": "We turn research into results, We don’t just follow trends—we predict them so you’re always one step ahead!",
+    "description": "At Surventix, we are redefining the way businesses approach market research and problem-solving. We don’t just adapt to change—we anticipate it, innovate around it, and create solutions that drive real impact. Our commitment to excellence enables us to consistently deliver meaningful, sustainable outcomes that benefit both our clients and the communities they serve.",
+    "learn_more": "Learn More"
+  },
+  "expertise": {
+    "title": "Our Expertise",
+    "1": {
+      "title": "Rethinking possibilities, uncovering opportunities, and delivering strategic insights to drive transformation and success",
+      "description": "Our team of experts brings a wealth of industry knowledge, functional expertise, and diverse perspectives that challenge conventional thinking and drive meaningful change. We don’t just analyze problems—we rethink possibilities, question assumptions, and uncover opportunities that others might overlook. With a deep understanding of evolving market dynamics, we equip our clients with the insights and strategies needed to navigate complexities, seize opportunities, and stay ahead of the curve."
+    },
+    "2": {
+      "title": "Turning data into decisions, insights into impact, and strategies into success—because the future won’t wait.",
+      "description": "At Surventix, we don’t just follow market trends—we help shape them. Backed by strategic partnerships with top research frontrunners, cutting-edge digital and analytics tools, and a powerhouse team of industry experts, we transform data into game-changing insights. Whether it’s refining strategies, optimizing operations, or unlocking new growth avenues, we deliver measurable impact with innovation at the core. When the future calls, we make sure you’re already ahead."
+    },
+    "3": {
+      "title": "Collaboration is our strategy, success is our outcome",
+      "description": "What makes us different? We don’t just consult—we collaborate. At every level, we work hand-in-hand with clients, blending expertise with engagement to craft solutions that stick. Transparency, trust, and teamwork drive everything we do, ensuring insights turn into action and strategies lead to lasting success. Because real impact isn’t just delivered—it’s built together."
+    }
+  },
+  "blogsSection": {
+    "title": "Our Blogs",
+    "blogs": {
+      "blog1": {
+        "title": "Surventix: The Power of Global Insights at Your Fingertips",
+        "description": "“Reaching the World, One Insight at a Time” Surventix stands at the forefront of the online panel industry, renowned for its expansive reach and highly engaged user base. With a robust network of 7.5 million active users worldwide, we bridge the gap between businesses and consumers, ensuring that every research need is met with precision and reliability. Our panel encompasses diverse demographics, making Surventix the ideal choice for companies seeking comprehensive market intelligence on a global scale.",
+        "content": {
+          "heading": "A Leading Force in Market Research",
+          "subheading": "Reaching the World, One Insight at a Time",
+          "paragraph1": "Surventix stands at the forefront of the online panel industry, renowned for its expansive reach and highly engaged user base. With a robust network of 7.5 million active users worldwide, we bridge the gap between businesses and consumers, ensuring that every research need is met with precision and reliability.",
+          "paragraph2": "Our panel encompasses diverse demographics, making Surventix the ideal choice for companies seeking comprehensive market intelligence on a global scale."
+        }
+      },
+      "blog2": {
+        "title": "A Spectrum of Voices, A World of Knowledge: The Power of a Diverse Respondent Panel",
+        "description": "In today’s fast-paced business world, market research isn’t just about gathering data—it’s about understanding people. The success of any research initiative depends on the quality and diversity of its respondents. At Surventix, we believe that insightful decisions are built on a broad spectrum of voices, reflecting different industries, demographics, and perspectives.",
+        "content": {
+          "heading": "From Niche Studies to Global Surveys",
+          "paragraph1": "In today’s fast-paced business world, market research isn’t just about gathering data—it’s about understanding people. The success of any research initiative depends on the quality and diversity of its respondents.",
+          "paragraph2": "At Surventix, we believe that insightful decisions are built on a broad spectrum of voices, reflecting different industries, demographics, and perspectives."
+        }
+      },
+      "blog3": {
+        "title": "The Power of Real People in Market Research Real People. Real Data. Real Impact",
+        "description": "In today’s fast-changing marketplace, businesses can’t afford to rely on outdated data or guesswork. Success comes from understanding real people, real trends, and real behaviors. That’s where Surventix comes in. With access to millions of authentic voices, we provide data-driven insights that help businesses stay ahead of industry shifts, predict market trends, and make smarter decisions. Whether you’re conducting a niche study or a global survey, our high-quality, real-world data fuels innovation, growth, and success. Don’t leave your next big decision to chance. Partner with Surventix today and turn insights into impact!",
+        "content": {
+          "heading": "Turning Insights into Impact",
+          "paragraph1": "In today’s fast-changing marketplace, businesses can’t afford to rely on outdated data or guesswork. Success comes from understanding real people, real trends, and real behaviors. That’s where Surventix comes in.",
+          "paragraph2": "With access to millions of authentic voices, we provide data-driven insights that help businesses stay ahead of industry shifts, predict market trends, and make smarter decisions. Whether you’re conducting a niche study or a global survey, our high-quality, real-world data fuels innovation, growth, and success.",
+          "paragraph3": "Don’t leave your next big decision to chance. Partner with Surventix today and turn insights into impact!"
+        }
+      },
+      "blog4": {
+        "title": "More Than Numbers: How Surventix Turns Data into Your Secret Weapon",
+        "description": "Let’s be real—data is everywhere. But great decisions? Those come from smart insights, not just spreadsheets full of numbers. At Surventix, we’re not just another data provider; we’re your strategic co‑pilot in the ever‑evolving world of market research.",
+        "content": {
+          "paragraph1": "Smart Insights for Smarter Decisions",
+          "paragraph2": "Let’s be real—data is everywhere. But great decisions? Those come from smart insights, not just spreadsheets full of numbers. At Surventix, we’re not just another data provider; we’re your strategic co‑pilot in the ever‑evolving world of market research.",
+          "paragraph3": "Need lightning‑fast surveys? We’ve got you. Looking for deep‑dive market segmentation? Done. Whether you're a startup testing the waters or an industry giant refining your next move, we deliver data with purpose—so you can make bold, confident decisions.",
+          "paragraph4": "Because in business, the right data isn’t just power—it’s profit. Let’s grow together."
+        }
+      },
+      "blog5": {
+        "title": "Fueling Strategies with the Voice of Millions",
+        "description": "In business, guessing is risky—but listening is powerful. At Surventix, we tap into millions of real voices, turning raw opinions into golden insights that keep you ahead of the game. Whether you're spotting trends, fine‑tuning strategies, or chasing the next big breakthrough, our data‑driven intelligence ensures you make smart moves, not wild guesses.",
+        "content": {
+          "paragraph1": "Listening for Success",
+          "paragraph2": "In business, guessing is risky—but listening is powerful. At Surventix, we tap into millions of real voices, turning raw opinions into golden insights that keep you ahead of the game. Whether you're spotting trends, fine‑tuning strategies, or chasing the next big breakthrough, our data‑driven intelligence ensures you make smart moves, not wild guesses.",
+          "paragraph3": "Why settle for assumptions when you can have real‑world proof? Partner with Surventix today—because success isn’t about luck, it’s about listening to the right people."
+        }
+      },
+      "blog6": {
+        "title": "Surventix: Where Innovation Meets Impact",
+        "description": "At Surventix, we don’t just adapt to change—we drive it. Our mission? To create cutting‑edge solutions that fuel success, and that starts with our people. We equip our team with the skills, tools, and bold mindsets needed to become visionary leaders in a fast‑evolving world.",
+        "content": {
+          "paragraph1": "Driving Change with Visionary Leadership",
+          "paragraph2": "At Surventix, we don’t just adapt to change—we drive it. Our mission? To create cutting‑edge solutions that fuel success, and that starts with our people. We equip our team with the skills, tools, and bold mindsets needed to become visionary leaders in a fast‑evolving world.",
+          "paragraph3": "Here, careers aren’t one‑size‑fits‑all—they’re as unique as the people who shape them. Whether you’re pushing boundaries in research or redefining industry standards, we’re committed to helping you build an exceptional journey at Surventix."
+        }
+      },
+      "blog7": {
+        "title": "Surventix: Powered by People, Driven by Diversity",
+        "description": "At Surventix, we believe that innovation thrives on diverse minds and bold ideas. With a growing network of talented professionals and alumni, we cultivate a culture where inspiration meets impact—where every voice fuels growth, creativity, and success.",
+        "content": {
+          "heading": "Innovation Through Diversity",
+          "paragraph1": "At Surventix, we believe that innovation thrives on diverse minds and bold ideas. With a growing network of talented professionals and alumni, we cultivate a culture where inspiration meets impact—where every voice fuels growth, creativity, and success.",
+          "paragraph2": "Our team’s unique perspectives shape the way we deliver exceptional value to our clients. Because when inclusivity and innovation work hand in hand, progress isn’t just possible—it’s inevitable.",
+          "paragraph3": "Great ideas don’t come from one voice—they come from millions. Ready to add yours?"
+        }
+      },
+      "blog8": {
+        "title": "Surventix: Investing in People, Building the Future",
+        "description": "At Surventix, we don’t just embrace the future—we prepare for it. That’s why we’re investing in cutting‑edge professional development, including our Surventix Tech MBA, created in partnership with top educational institutions.",
+        "content": {
+          "heading": "Preparing for the Future",
+          "paragraph1": "At Surventix, we don’t just embrace the future—we prepare for it. That’s why we’re investing in cutting‑edge professional development, including our Surventix Tech MBA, created in partnership with top educational institutions.",
+          "paragraph2": "From technology and sustainability to leadership and innovation, we’re equipping our team with the skills that matter most. Because progress isn’t just about staying ahead—it’s about leading the way.",
+          "paragraph3": "The future is calling. At Surventix, we’re making sure our people are ready to answer."
+        }
+      }
+    }
+  },
+  "ourJourney": {
+    "title": {
+      "start": "Our",
+      "highlight1": "Journey",
+      "middle": "at",
+      "highlight2": "Surventix:",
+      "end": "Insights Without",
+      "highlight3": "Borders"
+    },
+    "description": "At Surventix, we don’t just collect data—we connect businesses with the world. With 1,000+ projects completed, 50,000+ survey responses delivered, and 100+ clients, we proudly operate in 50+ countries, providing global insights that drive smart, data-driven decisions.",
+    "stats": {
+      "bids": "Bids",
+      "projects": "Projects",
+      "completes": "Completes",
+      "clients": "Clients"
+    }
+  },
+  "joinUs": {
+    "title": "Our Values",
+    "subtitle": "Serious Business, With a Dash of Fun",
+    "description": "At Surventix, we take our values very seriously—but who says professionalism can’t come with a bit of personality? We believe in ethics, integrity, and conducting business the right way... and also in celebrating small wins (yes, even surviving a Monday counts).\n\nOur team is built on trust, accountability, and an unshakable commitment to excellence—plus a shared understanding that coffee is a fundamental right. Every decision we make is backed by principles, transparency, and maybe just a little caffeine-fueled genius.\n\nBecause at Surventix, we don’t just work hard—we work smart, with a smile."
+  },
+
+  "companyValues": {
+    "integrity": {
+      "title": "Integrity",
+      "description": "At Surventix, integrity is our foundation. We don’t cut corners or play the numbers game—we deliver real, transparent, and ethical insights."
+    },
+    "diversity": {
+      "title": "Diversity",
+      "description": "Market research thrives on diversity, and so do we. With a global network spanning industries, demographics, and perspectives, Surventix ensures that no insight is one-dimensional."
+    },
+    "respect": {
+      "title": "Respect for the Individual",
+      "description": "At Surventix, we recognize that behind every data point is a real person. We value the expertise, aspirations, and individuality of our team and respondents alike."
+    },
+    "clientsFirst": {
+      "title": "Clients Come First",
+      "description": "Your business goals are our priority. Whether you need real-time market intelligence or a deep dive into consumer behavior, Surventix ensures you get the right insights—fast, accurate, and actionable."
+    },
+    "strategicPerspective": {
+      "title": "The Strategic Perspective",
+      "description": "Data is just numbers without the right perspective. At Surventix, we don’t just collect information—we analyze it through a strategic lens to drive smarter decisions."
+    },
+    "valueDelivered": {
+      "title": "Value Delivered",
+      "description": "Every data set should serve a purpose, and at Surventix, we ensure that insights translate into impact. Our research is designed to drive real business results."
+    },
+    "partnership": {
+      "title": "Partnership",
+      "description": "We don’t just offer research; we build long-term collaborations. Surventix partners with businesses, research firms, and industry leaders to create lasting value."
+    },
+    "expandingPossibilities": {
+      "title": "Expanding the Art of the Possible",
+      "description": "Innovation in market research is what sets Surventix apart. We embrace new methodologies, emerging technologies, and forward-thinking strategies to redefine what's possible."
+    },
+    "socialImpact": {
+      "title": "Social Impact",
+      "description": "At Surventix, we believe in the power of responsible research. Ethical data collection, fair respondent engagement, and sustainability initiatives are at the core of what we do."
+    }
+  },
+  "companyOverview": {
+    "tag": "Company Overviewsss",
+    "headline": "Smarter connections, stronger insights, research unleashed - Powered by People, Strengthened by Partnerships",
+    "paragraph": "At Surventix, we don’t just connect dots—we turbocharge data! With a rock-solid open infrastructure, we weave research objects, entities, and actions into a seamless scholarly web, fueling open research like never before.\n\nBacked by our global community, we drive precision metadata exchange, handling billions of API queries that keep research flowing freely. Because when knowledge moves, the world improves. ✨",
+    "joinPanel": "Join Our Panel",
+    "contactUs": "Contact Us"
+  },
+  "visionMission": {
+    "our": "Our",
+    "vision": "Vision",
+    "and": "and",
+    "mission": "Mission"
+  },
+  "sections": {
+    "0": {
+      "title": "Surventix: Pioneering the Future of Market Intelligence",
+      "content": "At Surventix, we are committed to redefining the paradigm of market research by integrating advanced analytical frameworks, cutting-edge technological ecosystems, and data-driven methodologies to construct a research infrastructure that is both rigorous and adaptive."
+    },
+    "1": {
+      "title": "Innovating for Impact",
+      "content": "We continuously refine our approach and reimagine solutions to address evolving marketplace challenges, ensuring impactful and sustainable outcomes."
+    },
+    "2": {
+      "title": "Empowering Businesses of All Sizes",
+      "content": "From India’s largest corporations striving for global leadership to agile startups driving transformative change, we support organizations in achieving sustainable, inclusive growth."
+    },
+    "3": {
+      "title": "Strategic Industry Partnerships",
+      "content": "Our collaborations with leading market research firms enable us to foster growth, enhance capabilities, and deliver exceptional value to our clients."
+    },
+    "4": {
+      "title": "Data-Driven Excellence",
+      "content": "Leveraging advanced digital tools, analytics, and decades of experience, we provide insights that drive meaningful and measurable impact."
+    }
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Surventix?",
+    "paragraph": "At Surventix, we redefine market intelligence through a harmonized fusion of advanced analytics, strategic expertise, and cutting-edge technology, ensuring that businesses not only navigate complexities but also seize untapped opportunities with precision. Here’s what sets us apart:",
+    "button": "Reach out to us",
+    "item1": {
+      "title": "Data-Driven Excellence",
+      "description": "Our proprietary research methodologies and AI-powered analytical frameworks transform raw data into high-impact, actionable intelligence, fostering informed decision-making."
+    },
+    "item2": {
+      "title": "Future-Ready Innovation",
+      "description": "By integrating predictive analytics, machine learning models, and industry foresight, we don’t just interpret trends—we anticipate them, equipping businesses with a competitive edge in evolving markets."
+    },
+    "item3": {
+      "title": "Unparalleled Industry Expertise",
+      "description": "Backed by a team of seasoned strategists, data scientists, and domain specialists, we deliver research that is both methodologically rigorous and commercially relevant."
+    },
+    "item4": {
+      "title": "Scalability & Customization",
+      "description": "Our solutions are designed to adapt and evolve alongside organizations, whether they are multinational corporations seeking global expansion or agile startups aiming for disruptive innovation."
+    },
+    "item5": {
+      "title": "End-to-End Research Ecosystem",
+      "description": "From data acquisition and multifaceted analysis to strategic implementation, we provide a seamless research continuum that drives measurable business impact."
+    },
+    "item6": {
+      "title": "Proven Strategic Impact",
+      "description": "At Surventix, research is not just an academic exercise—it’s a catalyst for growth, resilience, and sustained market leadership."
+    }
+  },
+  "meetTeam": {
+    "heading": "Meet Our Team",
+    "paragraph": "At Surventix, our leadership team is made up of passionate and forward-thinking professionals committed to shaping the company’s future. With deep expertise across various industries, they work relentlessly to create meaningful solutions that drive success for our global customers."
+  },
+  "team": {
+    "gourav": {
+      "designation": "Founder & CEO",
+      "description": "Meet Gourav – The Driving Force Behind Innovation & Client Success"
+    },
+    "priyanka": {
+      "designation": "Co-Founder",
+      "description": "Meet Priyanka – The Data Dynamo Powering Insights & Innovation"
+    },
+    "nikita": {
+      "designation": "Managing Director of Client & Sales",
+      "description": "Meet Nikita – A Strategic Leader in Business Growth & Customer-Centric Innovation"
+    },
+    "renu": {
+      "designation": "President, Research & Insights Platform",
+      "description": "Meet Renu – Innovating Insights, Elevating Brands & Powering Smarter Connections"
+    },
+    "shivam": {
+      "designation": "Sr. Project Manager",
+      "description": "Meet Shivam – Leading High-Impact Projects with Precision & Passion"
+    },
+    "ved": {
+      "designation": "Project Manager",
+      "description": "Meet Ved Grover – Driving Seamless Execution & Impactful Insights"
+    }
+  },
+  "services": {
+    "subheading": "Explore our expert solutions designed to drive success with innovation and efficiency.",
+    "browseNow": "Browse Now",
+    "customizedHeading": "Our services, customized for you",
+    "items": {
+      "item1": {
+        "title": "Data Collection",
+        "description": "Gain a competitive edge by leveraging data collection and processing services that keep you in sync with evolving market trends. Accessing real-time insights allows you to make well-informed decisions, reducing risks and enhancing overall business performance.",
+        "content": "<div><p class=\"mb-4\">Gain a competitive edge by leveraging data collection and processing services that keep you in sync with evolving market trends. Accessing real-time insights allows you to make well-informed decisions, reducing risks and enhancing overall business performance.</p><p class=\"mb-4\">Expertly managed data helps streamline operations by structuring key information, recognizing patterns, and refining strategic planning. Continuous data gathering and analysis enable businesses to anticipate market changes, optimize workflows, and improve decision-making.</p><p>By automating routine data collection tasks, organizations can free up valuable resources, allowing teams to focus on innovation and growth. Improve resource allocation, implement proactive maintenance strategies, monitor assets effectively, and strengthen customer engagement with advanced data solutions.</p></div>"
+      },
+      "item2": {
+        "title": "Online Sampling",
+        "description": "Online sampling is at the heart of our services, providing the foundation for high-quality data collection. With a global panel of over 7.5 million members, we offer market researchers, consultants, and businesses seamless access to diverse and reliable data from various regions and demographics. Using advanced tools and methodologies, we ensure accurate and timely responses, making each sample both representative and comprehensive.",
+        "content": "<div >\n  <p class=\"mb-4\">Online sampling is at the heart of our services, providing the foundation for high-quality data collection. With a global panel of over 7.5 million members, we offer market researchers, consultants, and businesses seamless access to diverse and reliable data from various regions and demographics. Using advanced tools and methodologies, we ensure accurate and timely responses, making each sample both representative and comprehensive.</p>\n  <p class=\"mb-4\">To uphold data integrity, we implement strict quality control measures throughout the sampling process. This includes real-time monitoring, data validation, and rigorous checks to detect and eliminate inconsistencies or biases. Our dedication to precision ensures that the insights generated are not only meaningful but also actionable, enabling clients to make informed decisions that drive strategic growth.</p>\n  <p>By continuously refining our techniques and adopting the latest advancements in online sampling, we empower businesses with dependable data that accurately represents their target audience, helping them stay ahead in a dynamic market.</p>\n</div>"
+      },
+      "item3": {
+        "title": "Survey Programming and Hosting",
+        "description": "At Surventix, we specialize in delivering end-to-end survey programming and hosting solutions tailored to the specific needs of our clients. Our team of experts utilizes industry-leading platforms such as Qualtrics, Confirmit, Decipher, and Sawtooth to create seamless, interactive, and engaging surveys that yield precise and valuable insights.",
+        "content": "<div >\n<p class=\"mb-4\">At Surventix, we specialize in delivering end-to-end survey programming and hosting solutions tailored to the specific needs of our clients. Our team of experts utilizes industry-leading platforms such as Qualtrics, Confirmit, Decipher, and Sawtooth to create seamless, interactive, and engaging surveys that yield precise and valuable insights.</p>\n<p>We design our survey programming services to transform research objectives into user-friendly and intuitive survey experiences. With advanced logic, dynamic question branching, and multilingual support, we ensure that surveys are accessible and relevant to diverse audiences. By integrating multimedia elements, gamification, and other innovative features, we enhance respondent engagement, leading to higher-quality data collection.</p>\n</div>"
+      },
+      "item4": {
+        "title": "Advanced API Solutions",
+        "description": "At Surventix, we offer sophisticated API solutions designed to optimize data integration, streamline operations, and enhance interoperability across platforms. Our APIs facilitate seamless communication between disparate systems, ensuring efficient data exchange and real-time access to critical insights.",
+        "content": "<div >\n<p class=\"mb-4\">At Surventix, we offer sophisticated API solutions designed to optimize data integration, streamline operations, and enhance interoperability across platforms. Our APIs facilitate seamless communication between disparate systems, ensuring efficient data exchange and real-time access to critical insights.</p>\n<p class=\"mb-4\">We specialize in developing custom APIs that cater to diverse business requirements, enabling secure, scalable, and automated interactions between applications. Whether integrating survey data with enterprise software, automating reporting workflows, or establishing seamless third-party connections, our solutions are built to support dynamic and evolving digital ecosystems</p>\n<p class=\"mb-4 font-medium text-xl\">Key Capabilities:</p>\n<ul class=\"mb-4 flex flex-col gap-2\">\n<li>• <strong>Survey Data Integration</strong> – Synchronize survey platforms with CRM systems, analytics tools, and data warehouses.</li>\n<li>• <strong>Real-Time Data Exchange</strong> – Enable instantaneous data retrieval for enhanced decision-making and responsiveness.</li>\n<li>• <strong>Process Automation</strong> – Minimize manual intervention by automating data collection, validation, and reporting.</li>\n<li>• <strong>Secure & Scalable Infrastructure</strong> – Ensure robust data security while supporting high-volume transactions and system growth.</li>\n</ul>\n<p>By leveraging our advanced API solutions, businesses can achieve greater efficiency, improve data accuracy, and unlock new opportunities for digital transformation.</p>\n</div>"
+      },
+      "item5": {
+        "title": "Qualitative and Quantitative Research",
+        "description": "At Surventix, we specialize in both qualitative and quantitative research, providing businesses and researchers with comprehensive insights to drive informed decision-making. By leveraging a blend of in-depth analysis and statistical precision, we help organizations extract meaningful patterns, understand consumer behavior, and refine strategies based on reliable data.",
+        "content": "<div >\n<p class=\"mb-4\">At Surventix, we specialize in both qualitative and quantitative research, providing businesses and researchers with comprehensive insights to drive informed decision-making. By leveraging a blend of in-depth analysis and statistical precision, we help organizations extract meaningful patterns, understand consumer behavior, and refine strategies based on reliable data.</p>\n<p class=\"mb-4 font-medium text-xl\">Quantitative Research: Data-Driven Precision</p>\n<p class=\"mb-4\">Our quantitative research approach focuses on numerical data collection and statistical analysis to measure trends, correlations, and market dynamics. Using structured surveys, large-scale polling, and data modeling, we ensure robust, objective, and scalable insights. Our methodologies include:</p>\n<ul class=\"mb-4 flex flex-col gap-2\">\n<li>• <strong>Surveys & Polls</strong> – Structured questionnaires to capture large-scale responses.</li>\n<li>• <strong>Experimental Research</strong> – Controlled studies to test hypotheses and measure outcomes.</li>\n<li>• <strong>Statistical Analysis</strong> – Advanced data modeling to identify trends and correlations.</li>\n</ul>\n<p class=\"mb-4 font-medium text-xl\">Qualitative Research: In-Depth Understanding</p>\n<p class=\"mb-4\">For a deeper exploration of behaviors, perceptions, and motivations, our qualitative research methods uncover the “why” behind consumer actions. We employ:</p>\n<ul class=\"mb-4 flex flex-col gap-2\">\n<li>• <strong>Focus Groups</strong> – Facilitated discussions to explore opinions and preferences.</li>\n<li>• <strong>In-Depth Interviews</strong> – One-on-one conversations for detailed insights.</li>\n<li>• <strong>Observational Research</strong> – Real-world behavior analysis in natural settings.</li>\n</ul>\n<p>By combining both research methodologies, we offer a holistic perspective, allowing businesses to validate theories with hard data while understanding the emotions and motivations that drive customer decisions.</p>\n</div>"
+      },
+      "item6": {
+        "title": "Website & Software Development",
+        "description": "At Surventix, we specialize in developing innovative website and software solutions designed to empower businesses in today’s fast-evolving digital landscape.",
+        "content": "<div >\n<p class=\"mb-4\">At Surventix, we specialize in developing innovative website and software solutions designed to empower businesses in today’s fast-evolving digital landscape.</p>\n<p class=\"mb-4 italic\">Website Development: Engaging & High-Performance Solutions.</p>\n<p class=\"mb-4\">Our website development services focus on creating visually compelling, dynamic, and fully responsive websites that align with your brand identity while ensuring a seamless user experience. Whether you require an interactive landing page, a feature-rich e-commerce platform, or a corporate website, we design each project with speed, security, and mobile optimization in mind. Our goal is to build scalable, high-performing websites that enhance engagement and drive business growth.</p>\n<p class=\"mb-4 italic\">Software Development: Custom-Built for Efficiency & Scalability</p>\n<p class=\"mb-4\">In software development, we craft tailored solutions to streamline operations, enhance productivity, and support business expansion. Our expertise ranges from developing user-friendly mobile and desktop applications to designing complex enterprise systems that optimize workflows. By leveraging the latest technologies, we create secure and reliable applications, including CRMs, ERP systems, and industry-specific software that improve efficiency and provide a competitive edge.</p>\n<p>At Surventix, our mission is to deliver functional, forward-thinking digital solutions that drive measurable success and long-term business impact.</p>\n</div>"
+      },
+      "item7": {
+        "title": "Digital SEO Solutions",
+        "description": "In today’s competitive digital landscape, online visibility is essential for business growth. At Surventix, we provide comprehensive SEO solutions designed to enhance your website’s search engine rankings, increase organic traffic, and strengthen your online presence.",
+        "content": "<div >\n<p class=\"mb-4\">In today’s competitive digital landscape, online visibility is essential for business growth. At Surventix, we provide comprehensive SEO solutions designed to enhance your website’s search engine rankings, increase organic traffic, and strengthen your online presence.</p>\n<p class=\"mb-4\">Our SEO specialists employ a data-driven approach, conducting in-depth keyword research, optimizing on-page elements (such as meta tags, content, and images), and implementing strategic backlink-building techniques to improve your site’s authority.</p>\n<p>We take a holistic approach to SEO, integrating technical optimization, content strategy, and user experience enhancements to deliver sustainable, measurable results. Our goal is to boost your search engine rankings, attract highly targeted traffic, and convert visitors into long-term customers, helping your business thrive in the digital marketplace.</p>\n</div>"
+      },
+      "item8": {
+        "title": "Technical Solutions",
+        "description": "Our technical solution for online sampling is built on a robust infrastructure designed to provide seamless, efficient, and scalable data collection capabilities. At the core of our solution is an advanced sampling platform that integrates cutting-edge technology with our expansive 7.5 million global panel. This platform is engineered to ensure high-quality responses and deliver real-time insights across diverse research sectors.",
+        "content": ""
+      }
+    }
+  },
+
+  "technicalSolutions": {
+    "title": "Technical Solutions",
+    "subheading": "Explore our expert solutions designed to drive success with innovation and efficiency.",
+    "browseNow": "Browse Now",
+    "customizedHeading": "Our technical solutions, customized for you",
+    "items": {
+      "globalPanelIntegration": {
+        "title": "Global Panel Integration",
+        "description": "Our system connects seamlessly with a diverse, global panel, providing access to respondents across a wide variety of regions, demographics, and interests. This diversity ensures that your research is both comprehensive and representative of a broad spectrum of opinions.",
+        "image": "/1.jpg"
+      },
+      "adaptiveSamplingMethods": {
+        "title": "Adaptive Sampling Methods",
+        "description": "We utilize adaptive sampling techniques that allow us to dynamically adjust the selection criteria based on real-time data. This ensures that every sample is highly targeted, relevant, and aligned with the specific needs of your research objectives.",
+        "image": "/2.jpg"
+      },
+      "realTimeValidation": {
+        "title": "Real-time Data Validation and Quality Control",
+        "description": "Our platform includes advanced algorithms for data validation, ensuring that each response is genuine and accurate. Real-time monitoring checks for response patterns, detecting any anomalies or potential biases, and applying corrective measures to maintain data integrity.",
+        "image": "/3.jpg"
+      },
+      "surveyRouting": {
+        "title": "Survey Routing and Logic Optimization",
+        "description": "Our system supports sophisticated survey routing and logic features, enabling customized experiences for each respondent. This ensures that participants only answer relevant questions based on previous responses, reducing survey fatigue and improving data quality.",
+        "image": "/4.jpg"
+      },
+      "dataSecurity": {
+        "title": "Data Encryption and Security",
+        "description": "Protecting the privacy and security of respondents’ information is paramount. Our platform employs end-to-end encryption to safeguard all data in transit and at rest, adhering to industry standards such as GDPR to ensure compliance with global data protection regulations.",
+        "image": "/5.jpg"
+      },
+      "realTimeReporting": {
+        "title": "Real-time Reporting and Analytics",
+        "description": "Clients can access real-time dashboards that display live data collection results. These interactive dashboards allow for quick analysis and reporting, enabling teams to make data-driven decisions without delay.",
+        "image": "/6.jpg"
+      },
+      "aiInsights": {
+        "title": "AI-driven Insights and Predictive Analytics",
+        "description": "Leveraging machine learning and AI tools, our platform can uncover hidden trends, predict market shifts, and provide actionable insights. These tools support predictive modeling, making it easier for businesses to forecast outcomes and strategize effectively.",
+        "image": "/1-1.jpg"
+      },
+      "automatedPanel": {
+        "title": "Automated Sampling and Panel Management",
+        "description": "Our platform automates the management of the respondent panel, including recruitment, engagement, and retention. It uses AI to optimize respondent recruitment and manage panel health, ensuring the most relevant individuals are always available for studies.",
+        "image": "/2-1.jpg"
+      },
+      "multilingualSupport": {
+        "title": "Multilingual Support",
+        "description": "To cater to a global audience, our system supports multilingual surveys and questionnaires, ensuring accurate responses across language barriers while maintaining consistency and clarity in data interpretation.",
+        "image": "/2-1.jpg"
+      }
+    }
+  },
+  "codeOfConduct": {
+    "title": "Code of Conduct",
+    "subtitle": "Upholding Integrity, Excellence, and Responsibility",
+    "description": "At Surventix, we are dedicated to upholding the highest standards of integrity, professionalism, and respect. Our Code of Conduct serves as a guiding framework for our employees, partners, and stakeholders, ensuring that our actions consistently reflect our core values.",
+    "items": {
+      "integrity": {
+        "title": "Integrity",
+        "description": "We don’t cut corners—unless it's on a pie chart. Every interaction, decision, and data point is handled with honesty, ethics, and full transparency, ensuring that trust is not just earned but consistently reinforced."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "In a world overflowing with data, we separate the insights from the noise. Our commitment to accuracy, reliability, and analytical rigor ensures that every piece of information we deliver is not just insightful, but impactful."
+      },
+      "respect": {
+        "title": "Respect",
+        "description": "Whether it’s our clients, panelists, or colleagues, we believe brilliant ideas thrive in an environment of fairness, inclusivity, and mutual respect. At Surventix, every voice matters—because diverse perspectives lead to smarter decisions and better outcomes."
+      }
+    }
+  },
+  "commitments": {
+    "items": {
+      "panelists": {
+        "title": "To Our Panelists",
+        "privacy": "Privacy & Data Protection – We safeguard panelists' personal information in strict compliance with GDPR, CCPA, and global data protection laws.",
+        "compensation": "Fair Compensation & Transparency – We ensure equitable rewards for participation and maintain clear survey objectives.",
+        "experience": "Enhanced Participant Experience – We prevent over-surveying and uphold high standards for engagement and satisfaction."
+      },
+      "clients": {
+        "title": "To Our Clients",
+        "insights": "Accurate & Actionable Insights – We deliver unbiased, high-quality data tailored to client needs.",
+        "professionalism": "Professionalism & Confidentiality – We ensure secure, timely, and ethical research practices.",
+        "integrity": "Commitment to Integrity – We strictly avoid data misrepresentation or any unethical research conduct."
+      },
+      "employees": {
+        "title": "To Our Employees",
+        "culture": "Inclusive & Supportive Culture – We cultivate a positive workplace where every employee feels valued.",
+        "innovation": "Encouraging Innovation & Growth – We foster a spirit of collaboration, creativity, and continuous learning.",
+        "diversity": "Diversity, Equity & Inclusion – We champion equal opportunities and respect for all perspectives."
+      }
+    }
+  },
+  "ethics": {
+    "heading": "Ethical Practices: Upholding Integrity and Accountability",
+    "description": "At Surventix, ethical conduct is the cornerstone of our operations. We are committed to maintaining the highest standards of professionalism, fairness, and responsibility in all our engagements. Our approach to ethical practices ensures that our work remains transparent, compliant, and respectful of all stakeholders.",
+    "items": {
+      "transparency": {
+        "title": "Ensuring Transparency in Decision-Making",
+        "description": "We proactively identify and mitigate any situations that may create bias or undue influence. Should a potential issue arise, we ensure full transparency and disclosure, maintaining trust and fairness in all professional dealings."
+      },
+      "legal": {
+        "title": "Adhering to Legal and Industry Standards",
+        "description": "Our work aligns with the strictest legal and industry regulations, including ESOMAR and MRS guidelines. By following these internationally recognized ethical frameworks, we guarantee responsible research practices and data integrity."
+      },
+      "discrimination": {
+        "title": "Rejecting Discrimination and Unethical Behavior",
+        "description": "We maintain a zero-tolerance policy for any form of discrimination, harassment, or unethical conduct. Any such incidents are promptly reported and addressed to ensure a safe, fair, and respectful working and research environment."
+      }
+    }
+  },
+  "faq": {
+    "heading": "Compliance and Accountability: Upholding Ethical Excellence",
+    "description": "At Surventix, we recognize that integrity is not just an expectation—it is a fundamental requirement. Our unwavering commitment to ethical excellence is reinforced through a structured framework of compliance and accountability, ensuring that every action aligns with our core values and legal obligations.",
+    "items": {
+      "commitment": {
+        "title": "Commitment to Adherence and Enforcement",
+        "description": "We require all employees, partners, and stakeholders to strictly comply with our Code of Conduct, embedding ethical decision-making into every aspect of our operations. Through consistent oversight and proactive guidance, we cultivate a culture where compliance is not an afterthought but a standard operating principle."
+      },
+      "evolution": {
+        "title": "Continuous Policy Evolution and Ethical Adaptability",
+        "description": "Ethics and regulatory landscapes are ever-evolving, and so are we. We routinely review, refine, and update our policies to reflect emerging legal frameworks, industry best practices, and ethical advancements, ensuring our governance remains robust, relevant, and forward-thinking."
+      },
+      "accountability": {
+        "title": "Accountability Through Structured Oversight",
+        "description": "Compliance without accountability is ineffective. We have established clear reporting mechanisms and corrective action protocols to address any breaches of our Code of Conduct. By holding individuals responsible for ethical lapses, we reinforce the integrity of our organization while fostering an environment of trust, fairness, and professionalism."
+      }
+    }
+  },
+  "careerPage": {
+    "home": "Home",
+    "career": "Career",
+    "heroTitle": "Build a future you",
+    "subHeroTitle": "believe in",
+    "browseJobs": "Browse Jobs",
+    "joinTeam": "Join Our Team",
+    "joinTeamDesc": "As a global company, we offer exceptional career and development opportunities with attractive remuneration for candidates in different roles in our Online Market Research services and Consulting businesses in our corporate offices and regional subsidiaries in Asia Pacific, North America, Europe and the Middle East.",
+    "kickstartTitle": "Kickstart Your Career with",
+    "kickstartDesc": "Looking for a career in market research and consumer insights? At Surventix, we provide exciting opportunities for ambitious individuals looking to grow, learn, and make an impact in the ever-evolving world of data and advertising.",
+    "shareCV": "Share your updated CV at",
+    "benefits": [
+      {
+        "id": 1,
+        "title": "Hands-On Experience",
+        "description": "Work on real-world projects and gain practical insights."
+      },
+      {
+        "id": 2,
+        "title": "Expert Guidance",
+        "description": "Learn from industry leaders with years of experience."
+      },
+      {
+        "id": 3,
+        "title": "Innovation-Driven Environment",
+        "description": "Be part of a dynamic team that values fresh ideas."
+      },
+      {
+        "id": 4,
+        "title": "Career Growth",
+        "description": "Build a strong foundation for long-term success."
+      }
+    ]
+  },
+  "opportunities": {
+    "items": {
+      "corporate": {
+        "title": "Corporate at Surventix",
+        "content": [
+          "At Surventix, our corporate teams play a vital role in driving business success and ensuring seamless service delivery. We support our regional operations with expertise in business development, service design, product innovation, operations, and market research management.",
+          "To support both professional development and career advancement, we offer exciting job opportunities, hands-on projects, and comprehensive training programs. Through continuous learning and skill-building, we enable our teams to reach their full potential and make a lasting impact in market research and advertising.",
+          "At Surventix, when our people succeed, we succeed."
+        ]
+      },
+      "learning": {
+        "title": "A Learning Environment at Surventix",
+        "content": [
+          "At Surventix, continuous learning is at the core of our culture. We offer job rotations, hands-on assignments, and on-the-job training to foster career growth.",
+          "Our training programs enhance competencies, including the Surventix Executive Development Program (SEDP) for future leaders and industry-specific courses in collaboration with top institutions.",
+          "We also run Graduate Development Programs for top-tier undergraduates and provide fast-track opportunities for high-potential employees.",
+          "At Surventix, learning never stops—because when our people grow, so does our success."
+        ]
+      },
+      "culture": {
+        "title": "Surventix isn’t just another online market research company",
+        "content": [
+          "It’s where research meets revolution. We don’t just listen to our people; we give them the tools, trust, and space to soar. At Surventix, we nurture an entrepreneurial mindset, creating a culture where hard work is celebrated, innovation is encouraged, and we work hard, but party harder. Here, we don’t just make waves in the industry, we make sure our team rides them all the way to success."
+        ]
+      },
+      "engaging": {
+        "title": "Exciting Opportunities with Surventix",
+        "content": [
+          "Join the Surventix community and explore exciting opportunities to participate in engaging surveys and research projects. By sharing your valuable insights, you'll not only help shape the future of products and services but also get rewarded for your time and input. Collaborate with leading brands and businesses, and make a real impact while enjoying the benefits of being part of a dynamic, forward-thinking research network. Your opinions matter at Surventix, and together, we can drive innovation and growth across industries."
+        ]
+      },
+      "impact": {
+        "title": "Real-World Impact with Surventix",
+        "content": [
+          "At Surventix, your opinions have the power to influence real-world product development and marketing strategies. By sharing your genuine consumer feedback, you directly contribute to shaping the future of industries, helping brands create products and services that truly meet the needs of their customers. Join a movement that values your voice, where your insights play a crucial role in driving meaningful change across various sectors. With Surventix, you're not just participating in research—you're making a difference."
+        ]
+      },
+      "support": {
+        "title": "Unmatched Support with Surventix",
+        "content": [
+          "At Surventix, we prioritize your experience every step of the way. Our dedicated team is committed to providing seamless support, ensuring you have everything you need to participate with confidence. We operate with complete transparency, adhering to ethical research practices to guarantee your trust. Whether you have a query or need assistance, we offer quick resolution and fair compensation for your time and insights. With Surventix, you can be assured of reliable, supportive, and ethical involvement in every research project."
+        ]
+      },
+     
+      "professional": {
+        "title": "Professional Growth with Surventix",
+        "content": [
+          "Surventix provides an excellent platform to build your reputation as a trusted survey respondent and market expert. By consistently sharing valuable insights, you’ll establish credibility and become a respected voice in the research community. You'll also gain access to exclusive networking opportunities, connecting with professionals across marketing, research, and analytics sectors. Additionally, participating in Surventix can open doors to potential career prospects in research, insights, and data-driven roles, offering a pathway for professional advancement and growth. With Surventix, your contributions can take your career to new heights."
+        ]
+      }
+    }
+  },
+  "security_check": {
+    "hero": {
+      "heading": "Lock It. Protect It. Trust It",
+      "subheading": "At Surventix, we prioritize data security with top-tier encryption, strict authentication, and global compliance—ensuring your information stays safe, private, and trustworthy.",
+      "button": "Read More"
+    },
+    "sectionOnline": {
+      "heading": "Online Market Research Security at Surventix",
+      "paragraph": "At Surventix, we prioritize the security and integrity of every data point collected. Our online market research platform is built with advanced security protocols, including end-to-end encryption, secure data storage, and multi-layered authentication to protect respondent privacy and client information. We strictly adhere to global data protection standards like GDPR and CCPA, ensuring compliance and peace of mind. Our systems actively detect and prevent survey fraud, bots, and duplicate responses. By combining technology with trust, Surventix delivers insights that are not only accurate but also ethically and securely sourced—because your data deserves the highest level of protection."
+    },
+    "sectionHighlight": {
+      "introHeading1": "At ",
+      "introHeading2": "Surventix, ",
+      "introHeading3": "Security Is",
+      "introHeading4": "Success",
+      "introParagraph": "In today’s digital world, great research isn’t just smart—it’s secure. At Surventix, we believe the backbone of insightful, actionable research is trust, and that starts with airtight online market research security."
+    }
+  },
+
+  "contactCard": {
+    "title": "Want to Know More About Us?",
+    "line1": "We’re more than just surveys and data — we’re all about smart insights, seamless experiences, and making meaningful connections.",
+    "line2": "Whether you’re curious about what we do, have a question, or just want to explore potential opportunities — we’d love to hear from you!",
+    "ctaLine": "Get in touch with us at:",
+    "email": "Sales@surventix.com",
+    "footerNote": "Let’s connect and create something impactful together."
+  },
+  "stepForm": {
+    "mode1": {
+      "heading": "What Challenges A research Most?",
+      "description": "In a world where everything is digital, trust is our biggest challenge. Not just earning it—but keeping it.\nAt Surventix, we don’t just battle bots or guard servers. We protect something more delicate: the honesty behind every answer, the privacy behind every click, and the confidence our clients place in data that shapes big decisions.\nThe landscape is always shifting—new privacy laws, smarter fraud, faster hacks. But our mission stays the same: to make sure research remains a safe space—for brands, for consumers, and for the truth."
+    },
+    "mode2": {
+      "heading": "Here’s How We Tackle It",
+      "description": "At Surventix, we tackle the challenges of online market research security head-on with a multi-layered approach. Our platform uses advanced encryption and fraud detection tools to ensure data integrity and protect respondent privacy. We strictly adhere to global compliance standards like GDPR and CCPA, while our real-time authentication processes guarantee authentic responses. With continuous system updates and proactive security measures, we stay ahead of emerging threats. Our focus on transparency and trust empowers clients to make decisions based on clean, secure, and reliable data—every time."
+    }
+  },
+
+  "securityCheck": {
+    "advancedEncryption": {
+      "title": "Advanced Data Encryption",
+      "item1": "We use End-to-End Encryption (E2EE) with SSL/TLS protocols to secure data during transmission and AES-256 encryption for storage.",
+      "item2": "Our survey platforms are built with robust encryption to ensure that all responses remain protected from unauthorized access."
+    },
+    "verifiedIdentities": {
+      "title": "Verified Respondent Identities",
+      "item1": "We leverage Imperium’s RelevantID® to validate participant identities and prevent fraudulent responses.",
+      "item2": "CAPTCHA and ReCAPTCHA mechanisms block automated bots, ensuring only genuine respondents participate.",
+      "item3": "Device Fingerprinting helps us detect and prevent duplicate submissions from the same device.",
+      "item4": "By leveraging the Surventix Digital Score, we assess and filter respondents based on their historical behaviour.",
+      "item5": "We use an internal Respondent Quality Score (RQS) system to monitor the quality of responses. Participants with a low score are temporarily excluded from surveys, maintaining overall data integrity."
+    },
+    "dataPrivacy": {
+      "title": "Strict Data Privacy & Compliance",
+      "item1": "Surventix adheres to global regulations, including GDPR, CCPA, and other local privacy laws.",
+      "item2": "We prioritize informed consent, ensuring participants understand how their data is collected and used.",
+      "item3": "Personal data is anonymized or pseudonymized whenever possible to minimize privacy risks."
+    },
+    "apiSolutions": {
+      "title": "Advanced API Solutions",
+      "item1": "Using Fraud Probability Scores and AI-driven tools like Fraudience, we detect suspicious behaviors.",
+      "item2": "IP Address Monitoring helps us identify and block proxy servers and suspicious locations.",
+      "item3": "Our deduplication scoring system ensures unique and reliable responses.",
+      "item4": "We integrate DataDome, a leading bot protection solution, to block automated and fraudulent attempts."
+    },
+    "systemSecurity": {
+      "title": "Robust System Security",
+      "item1": "Our systems are protected with advanced firewalls and Intrusion Detection Systems (IDS) to prevent unauthorized access.",
+      "item2": "Regular security audits and penetration tests are conducted to identify and address vulnerabilities.",
+      "item3": "Access to sensitive data is strictly controlled based on user roles and responsibilities."
+    },
+    "dataStorage": {
+      "title": "Secure Data Storage & Transfer",
+      "item1": "We partner with certified and secure cloud providers that comply with strict standards.",
+      "item2": "We follow data minimization principles, collecting only essential information.",
+      "item3": "Sensitive data is transferred using secure protocols like SFTP to ensure confidentiality.",
+      "item4": "Secure server-to-server validation checks the authenticity of responses, ensuring they come from trusted sources."
+    },
+    "geoTagging": {
+      "title": "Geo-Tagging & Location Verification",
+      "item1": "Surventix uses geo-tagging, IP checks, browser language, and country validation to verify respondent location.",
+      "item2": "Any discrepancies are flagged to ensure that only genuine respondents are included."
+    },
+    "realTimeMonitoring": {
+      "title": "Real-Time Monitoring & Alerts",
+      "item1": "Our platform continuously monitors survey activity to detect unusual behaviors.",
+      "item2": "Automated alerts are triggered when suspicious actions are identified, enabling immediate response."
+    },
+    "transparency": {
+      "title": "Transparency & Accountability",
+      "item1": "Our privacy policies clearly explain how data is collected, stored, and used.",
+      "item2": "Detailed audit logs record every data access and change to ensure full traceability.",
+      "item3": "All partners and vendors must comply with our strict security and privacy standards."
+    },
+    "digitalSecurity": {
+      "title": "Digital Security Measures",
+      "item1": "The Verify Callback system ensures responses are validated via trusted platforms, reducing unauthorized submissions.",
+      "item2": "Strategically placed trap questions detect inattentive or dishonest respondents.",
+      "item3": "Payout validation ensures only completed responses are rewarded, reducing fraud.",
+      "item4": "The Speeder Check mechanism flags participants who finish surveys too quickly, indicating low-quality responses."
+    },
+    "dupeScore": {
+      "title": "Panelist Dupe Score & Duplication Check",
+      "description": "At Surventix, we maintain data integrity through a rigorous respondent evaluation system. Each participant is assigned a score based on their response patterns, attentiveness, and consistency. If the score is too low, they are temporarily excluded from surveys. This ensures reliable and actionable data for businesses."
+    }
+  },
+
+  "securityFlow": {
+    "heading": "Security Flow Chart",
+    "accessSurvey": {
+      "title": "Access Survey",
+      "description": "Participants begin the survey process by accessing the provided link or platform for entry."
+    },
+    "provideConsent": {
+      "title": "Provide Consent",
+      "description": "Respondents must read and agree to terms, confirming willingness to participate in the survey process."
+    },
+    "verification": {
+      "title": "Verification & HASH Key",
+      "description": "Distill verifies user legitimacy; a unique HASH KEY ensures secure and authenticated survey entry."
+    },
+    "tracking": {
+      "title": "Location & System Tracking",
+      "description": "System captures location, IP address, and device details to prevent fraud and ensure data integrity."
+    },
+    "fraudProfiling": {
+      "title": "Fraud Profiling & Dedupe",
+      "description": "Tools assess responses for suspicious patterns, duplicate entries, and signs of fraudulent activity."
+    },
+    "redHerring": {
+      "title": "Red Herring Questions",
+      "description": "Intentional trick questions validate attentiveness, helping identify inattentive or dishonest survey takers."
+    },
+    "surveyEntry": {
+      "title": "Survey Entry",
+      "description": "Once verified, respondent officially begins answering survey questions based on their knowledge or experience."
+    },
+    "completeSurvey": {
+      "title": "Complete Survey",
+      "description": "Participant provides responses to all questions, reaching the end of the survey questionnaire."
+    },
+    "exitHash": {
+      "title": "Exit HASH Key Verification",
+      "description": "System checks exit HASH KEY to ensure survey was completed by the original, verified respondent."
+    },
+    "surveyComplete": {
+      "title": "Survey Complete",
+      "description": "Survey process is successfully concluded, and participant's data is securely stored for analysis."
+    }
+  },
+  "surventixHighlights": {
+    "purposeDriven": {
+      "title": "Purpose-Driven, Privacy-Led",
+      "description": "At Surventix, every research initiative starts with a sharp objective—and an even sharper security framework. From project setup to data delivery, we design every touchpoint with privacy in mind. Your goals stay protected, and your insights remain untouched by noise, breaches, or bad actors."
+    },
+    "realPeople": {
+      "title": "Real People, Not Robots",
+      "description": "We don’t do data from mystery clicks or digital ghosts. Surventix uses smart filters, fraud detection tools, and respondent validation to ensure you only hear from real, qualified individuals. That means cleaner data, richer insights, and results you can trust—without second-guessing who’s on the other end."
+    },
+    "builtInProtection": {
+      "title": "Built-In Protection, Not Bolt-On Patches",
+      "description": "Our platform doesn’t just “have” security—it lives and breathes it. End-to-end encryption, secure data hosting, access control, and ongoing system audits keep your research environment airtight. No outdated add-ons, no patchwork fixes—just modern protection built from the ground up."
+    },
+    "compliance": {
+      "title": "Fully Compliant, Totally Transparent",
+      "description": "We don’t just follow global privacy laws—we align with their spirit. Surventix is built to comply with GDPR, CCPA, and other regional regulations, ensuring respondent rights are respected and client data remains protected. Transparency is key—because real trust can’t be faked."
+    },
+    "cleanData": {
+      "title": "Clean Data = Clear Insights",
+      "description": "Secure platforms lead to confident participants. And confident participants lead to better data. Our tools minimize response bias, eliminate fraudulent entries, and uphold data integrity—so you’re working with insights that are not only clean, but credible enough to guide serious business decisions."
+    },
+    "researchImpact": {
+      "title": "Research That Moves the Needle",
+      "description": "When you combine smart targeting, ethical practices, and secure technology, the result is research that drives results. Surventix empowers you to explore consumer behavior without the risk, helping you move faster from insight to impact—with confidence at every step."
+    }
+  }
+}

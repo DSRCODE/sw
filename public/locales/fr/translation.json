@@ -1,0 +1,822 @@
+{
+  "title": "Bienvenue dans notre application!",
+  "description": "Ceci est la version française.",
+  "join_our_panel": "Rejoignez notre panel",
+  "getInTouch": "Contactez-nous",
+  "yourEmail": "Votre adresse e-mail",
+  "yourName": "Votre nom",
+  "subject": "Sujet",
+  "message": "Message",
+  "submit": "Envoyer",
+  "applyNow": "Postuler maintenant",
+  "socialMedia": "Réseaux sociaux",
+  "updatedPanelBook": "Livre de panel mis à jour",
+  "enterYourEmail": "Entrez votre adresse e-mail",
+  "download": "Télécharger",
+  "readMore": "En savoir plus",
+  "reach": "Notre portée",
+  "spanacross": "s'étend à travers",
+  "nav": {
+    "home": "Accueil",
+    "about_us": "À propos de nous",
+    "our_services": "Nos services",
+    "code_of_conduct": "Code de conduite",
+    "security_check": "Contrôle de sécurité",
+    "career": "Carrière"
+  },
+  "signin": {
+    "title": "Bon retour",
+    "subtitle": "Connectez-vous à votre compte Surventix pour commencer à explorer",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "Entrez votre e-mail",
+    "passwordLabel": "Mot de passe",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "login": "Se connecter",
+    "loggingIn": "Connexion...",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "register": "S'inscrire",
+    "alert": {
+      "verifyEmail": "Veuillez vérifier votre e-mail avant de vous connecter."
+    },
+    "errors": {
+      "invalidEmail": "Adresse e-mail invalide",
+      "emailRequired": "L'e-mail est requis",
+      "passwordMin": "Le mot de passe doit comporter au moins 6 caractères",
+      "passwordRequired": "Le mot de passe est requis",
+      "invalidCredentials": "E-mail ou mot de passe invalide"
+    }
+  },
+  "signup": {
+    "title": "Bienvenue sur Surventix",
+    "subtitle": "Inscrivez-vous pour créer votre premier compte Surventix et commencer à explorer",
+    "nameLabel": "Nom",
+    "namePlaceholder": "Entrez votre nom",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "Entrez votre e-mail",
+    "phoneLabel": "Numéro de téléphone",
+    "phonePlaceholder": "Entrez votre numéro de téléphone",
+    "passwordLabel": "Mot de passe",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "register": "S'inscrire",
+    "registering": "Inscription...",
+    "haveAccount": "Vous avez déjà un compte ?",
+    "login": "Se connecter",
+    "alert": {
+      "verificationSent": "Un lien de vérification a été envoyé à votre e-mail !"
+    },
+    "errors": {
+      "nameRequired": "Le nom est requis",
+      "invalidEmail": "Adresse e-mail invalide",
+      "emailRequired": "L'e-mail est requis",
+      "invalidPhone": "Le numéro de téléphone n'est pas valide",
+      "phoneRequired": "Le numéro de téléphone est requis",
+      "passwordMin": "Le mot de passe doit comporter au moins 6 caractères",
+      "passwordRequired": "Le mot de passe est requis",
+      "emailInUse": "E-mail déjà utilisé ou invalide"
+    }
+  },
+  "footer": {
+    "quick_links": "Liens rapides",
+    "lets_connect": "Restons connectés !",
+    "address": "7ème étage, DLF One Horizon Centre,\nDLF Phase 5, Secteur 43, Gurugram,\nHaryana 122002",
+    "email": "sales@surventix.com",
+    "copyright": "Copyright © 2025 Surventix\nTous droits réservés. Propulsé par Surventix",
+    "description": "Chez Surventix, nous redéfinissons constamment notre approche du travail et réimaginons des solutions aux défis du marché.",
+    "address_line1": "7ème étage, DLF One Horizon Centre",
+    "address_line2": "DLF Phase 5, Secteur 43, Gurugram",
+    "address_line3": "Haryana 122002",
+    "copyright_line1": "Copyright © 2025 Surventix",
+    "copyright_line2": "Tous droits réservés. Propulsé par Surventix"
+  },
+  "slides": {
+    "contact": "Contactez-nous",
+    "slide1": {
+      "heading": "Bienvenue chez Surventix – Votre partenaire en recherche de marché",
+      "intro1": "Pourquoi deviner quand vous pouvez savoir ? Chez",
+      "intro2": "nous transformons les chiffres bruts en idées révolutionnaires qui alimentent des décisions commerciales intelligentes. Que vous poursuiviez des joyaux cachés du secteur ou analysiez le marché mondial pour des tendances majeures, nous avons la magie des données pour vous garder en tête. Précis, fiable et percutant — car en affaires, les meilleures décisions sont celles fondées sur une vraie intelligence.",
+      "tagline": "Services de recherche et technologies innovants - Recherche intelligente. Stratégies plus intelligentes. Résultats plus forts",
+      "detail": "est une entreprise leader de panels en ligne, reconnue pour sa portée mondiale étendue et son panel robuste de 7,5 millions d'utilisateurs actifs dans le monde"
+    },
+    "slide2": {
+      "heading": "Surventix – Recherche intelligente. Décisions plus fortes. Impact plus grand.",
+      "intro1": "Dans un marché en constante évolution, rester en avance demande plus que des données – cela nécessite des idées intelligentes et des stratégies exploitables. Chez",
+      "intro2": "nous aidons les entreprises avec des solutions de recherche de marché de pointe qui décryptent les tendances, comprennent le comportement des consommateurs et stimulent les décisions décisives.",
+      "tagline": "Transformez les idées en actions avec Surventix",
+      "detail1": "Débloquons les opportunités, stimulons la croissance et façonnons l’avenir —",
+      "detail2": "ensemble"
+    },
+    "slide3": {
+      "heading": "Trouvez les tendances avant qu'elles ne vous trouvent.",
+      "intro1": "Dans un monde noyé de données, en comprendre le sens est un véritable atout. C’est là que",
+      "intro2": "intervient — nous ne faisons pas que traiter les chiffres, nous décryptons l’histoire qu’ils racontent. Que vous visiez le prochain grand changement du marché ou souhaitiez devancer la concurrence, nous vous apportons des insights réellement utiles.",
+      "tagline": "Surventix – Parce que les suppositions, c’est du passé"
+    }
+  },
+  "about": {
+    "heading": "À propos de nous",
+    "subheading": "Nous transformons la recherche en résultats. Nous ne suivons pas simplement les tendances — nous les prévoyons pour que vous restiez toujours un pas en avance !",
+    "description": "Chez Surventix, nous redéfinissons la manière dont les entreprises abordent les études de marché et la résolution de problèmes. Nous ne faisons pas qu’adapter le changement — nous l’anticipons, innovons autour de lui et créons des solutions qui produisent un réel impact. Notre engagement envers l’excellence nous permet de fournir en permanence des résultats significatifs et durables, au bénéfice de nos clients et des communautés qu’ils servent.",
+    "learn_more": "En savoir plus"
+  },
+  "expertise": {
+    "title": "Notre expertise",
+    "1": {
+      "title": "Repenser les possibilités, découvrir des opportunités et fournir des insights stratégiques pour stimuler la transformation et le succès",
+      "description": "Notre équipe d'experts apporte une richesse de connaissances sectorielles, une expertise fonctionnelle et des perspectives diverses qui remettent en question la pensée conventionnelle et favorisent un changement significatif. Nous n'analysons pas simplement les problèmes — nous repensons les possibilités, remettons en question les hypothèses et découvrons des opportunités souvent ignorées. Grâce à une compréhension approfondie des dynamiques du marché en évolution, nous offrons à nos clients les insights et les stratégies nécessaires pour naviguer dans la complexité, saisir les opportunités et garder une longueur d'avance."
+    },
+    "2": {
+      "title": "Transformer les données en décisions, les insights en impact et les stratégies en succès — car l'avenir n'attend pas.",
+      "description": "Chez Surventix, nous ne suivons pas les tendances du marché — nous les façonnons. Grâce à des partenariats stratégiques avec les leaders de la recherche, à des outils numériques et analytiques de pointe et à une équipe d'experts chevronnés, nous transformons les données en insights déterminants. Qu'il s'agisse d'affiner les stratégies, d'optimiser les opérations ou de débloquer de nouvelles voies de croissance, nous livrons un impact mesurable avec l'innovation au cœur. Quand l'avenir appelle, nous vous préparons à l'avance."
+    },
+    "3": {
+      "title": "La collaboration est notre stratégie, le succès notre résultat",
+      "description": "Qu'est-ce qui nous distingue ? Nous ne faisons pas que conseiller — nous collaborons. À chaque étape, nous travaillons main dans la main avec nos clients, alliant expertise et engagement pour concevoir des solutions durables. Transparence, confiance et travail d'équipe guident tout ce que nous faisons, garantissant que les insights se transforment en actions et les stratégies en succès durable. Car un réel impact ne se livre pas — il se construit ensemble."
+    }
+  },
+  "blogsSection": {
+    "title": "Nos blogs",
+    "blogs": {
+      "blog1": {
+        "title": "Surventix : La puissance des insights mondiaux à portée de main",
+        "description": "« Atteindre le monde, une insight à la fois » Surventix est à la pointe de l'industrie des panels en ligne, réputé pour sa portée étendue et sa base d'utilisateurs hautement engagés. Avec un réseau solide de 7,5 millions d'utilisateurs actifs dans le monde entier, nous comblons le fossé entre les entreprises et les consommateurs, en garantissant que chaque besoin en recherche est satisfait avec précision et fiabilité. Notre panel couvre une grande diversité démographique, faisant de Surventix le choix idéal pour les entreprises en quête d'une intelligence de marché globale complète.",
+        "content": {
+          "heading": "Un acteur de premier plan en recherche de marché",
+          "subheading": "Atteindre le monde, une insight à la fois",
+          "paragraph1": "Surventix est à la pointe de l'industrie des panels en ligne, réputé pour sa portée étendue et sa base d'utilisateurs hautement engagés. Avec un réseau solide de 7,5 millions d'utilisateurs actifs dans le monde entier, nous comblons le fossé entre les entreprises et les consommateurs, en garantissant que chaque besoin en recherche est satisfait avec précision et fiabilité.",
+          "paragraph2": "Notre panel couvre une grande diversité démographique, faisant de Surventix le choix idéal pour les entreprises en quête d'une intelligence de marché globale complète."
+        }
+      },
+      "blog2": {
+        "title": "Un Spectre de Voix, Un Monde de Connaissances : La Puissance d’un Panel de Répondants Diversifié",
+        "description": "Dans le monde des affaires d’aujourd’hui, la recherche de marché ne se limite pas à la collecte de données — il s’agit de comprendre les gens. Le succès de toute initiative de recherche dépend de la qualité et de la diversité des répondants. Chez Surventix, nous croyons que des décisions éclairées se fondent sur un large éventail de voix, reflétant différentes industries, démographies et perspectives.",
+        "content": {
+          "heading": "Des Études de Niche aux Enquêtes Mondiales",
+          "paragraph1": "Dans le monde des affaires d’aujourd’hui, la recherche de marché ne se limite pas à la collecte de données — il s’agit de comprendre les gens. Le succès de toute initiative de recherche dépend de la qualité et de la diversité des répondants.",
+          "paragraph2": "Chez Surventix, nous croyons que des décisions éclairées se fondent sur un large éventail de voix, reflétant différentes industries, démographies et perspectives."
+        }
+      },
+      "blog3": {
+        "title": "La Puissance des Gens Réels dans la Recherche de Marché : Des Gens Réels. Des Données Réelles. Un Impact Réel.",
+        "description": "Dans un marché en constante évolution, les entreprises ne peuvent pas se permettre de s’appuyer sur des données obsolètes ou des suppositions. Le succès repose sur la compréhension des personnes réelles, des tendances réelles et des comportements réels. C’est là qu’intervient Surventix. Grâce à l’accès à des millions de voix authentiques, nous fournissons des informations basées sur les données qui aident les entreprises à anticiper les tendances, prédire les évolutions du marché et prendre des décisions plus intelligentes. Que vous meniez une étude de niche ou une enquête mondiale, nos données de qualité et ancrées dans le réel alimentent l’innovation, la croissance et le succès. Ne laissez pas votre prochaine grande décision au hasard. Collaborez avec Surventix dès aujourd’hui et transformez les insights en impact !",
+        "content": {
+          "heading": "Transformer les Insights en Impact",
+          "paragraph1": "Dans un marché en constante évolution, les entreprises ne peuvent pas se permettre de s’appuyer sur des données obsolètes ou des suppositions. Le succès repose sur la compréhension des personnes réelles, des tendances réelles et des comportements réels. C’est là qu’intervient Surventix.",
+          "paragraph2": "Grâce à l’accès à des millions de voix authentiques, nous fournissons des informations basées sur les données qui aident les entreprises à anticiper les tendances, prédire les évolutions du marché et prendre des décisions plus intelligentes. Que vous meniez une étude de niche ou une enquête mondiale, nos données de qualité et ancrées dans le réel alimentent l’innovation, la croissance et le succès.",
+          "paragraph3": "Ne laissez pas votre prochaine grande décision au hasard. Collaborez avec Surventix dès aujourd’hui et transformez les insights en impact !"
+        }
+      },
+      "blog4": {
+        "title": "Plus que des chiffres : comment Surventix transforme les données en votre arme secrète",
+        "description": "Soyons réalistes : les données sont partout. Mais les grandes décisions ? Elles reposent sur des insights intelligents, pas seulement des tableaux. Chez Surventix, nous ne sommes pas qu’un fournisseur de données ; nous sommes votre copilote stratégique dans le monde en constante évolution de la recherche de marché.",
+        "content": {
+          "paragraph1": "Des insights intelligents pour des décisions plus intelligentes",
+          "paragraph2": "Soyons réalistes : les données sont partout. Mais les grandes décisions ? Elles reposent sur des insights intelligents, pas seulement des tableaux. Chez Surventix, nous ne sommes pas qu’un fournisseur de données ; nous sommes votre copilote stratégique dans le monde en constante évolution de la recherche de marché.",
+          "paragraph3": "Besoin d’enquêtes ultra‑rapides ? C’est fait. Envie d’une segmentation approfondie du marché ? Réalisé. Qu’il s’agisse d’une startup ou d’un géant du secteur, nous fournissons des données avec un objectif : vous permettre de prendre des décisions audacieuses et confiantes.",
+          "paragraph4": "Car en affaires, la bonne donnée n’est pas seulement un pouvoir : c’est un profit. Grandissons ensemble."
+        }
+      },
+      "blog5": {
+        "title": "Alimenter des stratégies par la voix de millions",
+        "description": "En affaires, deviner est risqué — écouter est puissant. Chez Surventix, nous puisons dans des millions de voix réelles, transformant des opinions brutes en insights précieux qui vous maintiennent en tête du jeu. Que vous déceliez des tendances, affiniez des stratégies ou visiez la prochaine grande avancée, notre intelligence axée sur les données vous garantit des décisions intelligentes, pas des suppositions.",
+        "content": {
+          "paragraph1": "Écouter pour réussir",
+          "paragraph2": "En affaires, deviner est risqué — écouter est puissant. Chez Surventix, nous puisons dans des millions de voix réelles, transformant des opinions brutes en insights précieux qui vous maintiennent en tête du jeu. Que vous déceliez des tendances, affiniez des stratégies ou visiez la prochaine grande avancée, notre intelligence axée sur les données vous garantit des décisions intelligentes, pas des suppositions.",
+          "paragraph3": "Pourquoi se contenter d’hypothèses quand on peut avoir des preuves concrètes ? Collaborez avec Surventix dès aujourd’hui — car le succès ne dépend pas de la chance, mais d’écoute des bonnes personnes."
+        }
+      },
+      "blog6": {
+        "title": "Surventix : là où l’innovation rencontre l’impact",
+        "description": "Chez Surventix, nous ne nous contentons pas de nous adapter au changement — nous le provoquons. Notre mission ? Créer des solutions de pointe qui stimulent le succès, et cela commence par nos équipes. Nous équipons nos collaborateurs des compétences, outils et mentalités audacieux nécessaires pour devenir des leaders visionnaires dans un monde en constante évolution.",
+        "content": {
+          "paragraph1": "Provoquer le changement avec un leadership visionnaire",
+          "paragraph2": "Chez Surventix, nous ne nous contentons pas de nous adapter au changement — nous le provoquons. Notre mission ? Créer des solutions de pointe qui stimulent le succès, et cela commence par nos équipes. Nous équipons nos collaborateurs des compétences, outils et mentalités audacieux nécessaires pour devenir des leaders visionnaires dans un monde en constante évolution.",
+          "paragraph3": "Ici, les carrières ne sont pas standardisées : elles sont aussi uniques que les personnes qui les façonnent. Que vous repoussiez les limites de la recherche ou redéfinissiez les normes, nous sommes déterminés à vous accompagner dans un parcours d’exception chez Surventix."
+        }
+      },
+      "blog7": {
+        "title": "Surventix : propulsé par les gens, guidé par la diversité",
+        "description": "Chez Surventix, nous croyons que l’innovation prospère grâce à la diversité des esprits et des idées fortes. Avec un réseau croissant de professionnels et d’alumni talentueux, nous cultivons une culture où l’inspiration rencontre l’impact — où chaque voix alimente la croissance, la créativité et le succès.",
+        "content": {
+          "heading": "Innovation par la diversité",
+          "paragraph1": "Chez Surventix, nous croyons que l’innovation prospère grâce à la diversité des esprits et des idées fortes. Avec un réseau croissant de professionnels et d’alumni talentueux, nous cultivons une culture où l’inspiration rencontre l’impact — où chaque voix alimente la croissance, la créativité et le succès.",
+          "paragraph2": "Les perspectives uniques de notre équipe façonnent la valeur exceptionnelle que nous apportons à nos clients. Car lorsque l’inclusivité et l’innovation travaillent main dans la main, le progrès ne devient pas seulement possible : il est inévitable.",
+          "paragraph3": "Les grandes idées ne viennent pas d’une seule voix : elles viennent de millions. À vous d’ajouter la vôtre ?"
+        }
+      },
+      "blog8": {
+        "title": "Surventix : investir dans les personnes, construire l’avenir",
+        "description": "Chez Surventix, nous ne nous contentons pas d’embrasser l’avenir — nous nous y préparons. C’est pourquoi nous investissons dans un développement professionnel de pointe, notamment notre MBA Tech Surventix, créé en partenariat avec les meilleures institutions éducatives.",
+        "content": {
+          "heading": "Se préparer pour l’avenir",
+          "paragraph1": "Chez Surventix, nous ne nous contentons pas d’embrasser l’avenir — nous nous y préparons. C’est pourquoi nous investissons dans un développement professionnel de pointe, notamment notre MBA Tech Surventix, créé en partenariat avec les meilleures institutions éducatives.",
+          "paragraph2": "De la technologie à la durabilité en passant par le leadership et l’innovation, nous équipons notre équipe des compétences qui comptent le plus. Car le progrès ne consiste pas seulement à aller de l’avant : il s’agit de montrer la voie.",
+          "paragraph3": "L’avenir appelle. Chez Surventix, nous faisons en sorte que nos équipes soient prêtes à y répondre."
+        }
+      }
+    }
+  },
+  "ourJourney": {
+    "title": {
+      "start": "Notre",
+      "highlight1": "Parcours",
+      "middle": "chez",
+      "highlight2": "Surventix :",
+      "end": "des insights sans",
+      "highlight3": "frontières"
+    },
+    "description": "Chez Surventix, nous ne faisons pas que collecter des données — nous connectons les entreprises au monde. Avec plus de 1 000 projets réalisés, 50 000+ réponses à des enquêtes fournies, et 100+ clients, nous opérons fièrement dans plus de 50 pays, offrant des insights globaux qui permettent de prendre des décisions intelligentes basées sur les données.",
+    "stats": {
+      "bids": "Offres",
+      "projects": "Projets",
+      "completes": "Réponses",
+      "clients": "Clients"
+    }
+  },
+  "joinUs": {
+    "title": "Nos Valeurs",
+    "subtitle": "Des affaires sérieuses, avec une touche de fun",
+    "description": "Chez Surventix, nous prenons nos valeurs très au sérieux — mais qui a dit que le professionnalisme ne pouvait pas être accompagné d’un peu de personnalité ? Nous croyons en l’éthique, l’intégrité et une conduite des affaires irréprochable... tout en célébrant les petites victoires (oui, même survivre à un lundi compte).\n\nNotre équipe repose sur la confiance, la responsabilité et un engagement inébranlable envers l’excellence — sans oublier notre conviction commune que le café est un droit fondamental. Chaque décision que nous prenons repose sur des principes, de la transparence, et peut-être un soupçon de génie alimenté par la caféine.\n\nParce que chez Surventix, nous ne travaillons pas seulement dur — nous travaillons intelligemment, avec le sourire."
+  },
+
+  "companyValues": {
+    "integrity": {
+      "title": "Intégrité",
+      "description": "Chez Surventix, l'intégrité est notre fondation. Nous ne trichons pas avec les chiffres — nous fournissons des informations réelles, transparentes et éthiques."
+    },
+    "diversity": {
+      "title": "Diversité",
+      "description": "La recherche de marché prospère grâce à la diversité, et nous aussi. Grâce à un réseau mondial couvrant divers secteurs, Surventix garantit que chaque perspective est représentée."
+    },
+    "respect": {
+      "title": "Respect de l’individu",
+      "description": "Chez Surventix, nous savons que derrière chaque donnée se cache une personne réelle. Nous valorisons les compétences, les aspirations et l’individualité de notre équipe comme de nos répondants."
+    },
+    "clientsFirst": {
+      "title": "Les clients avant tout",
+      "description": "Vos objectifs commerciaux sont notre priorité. Que vous ayez besoin d’une intelligence de marché en temps réel ou d’une analyse approfondie du comportement des consommateurs, Surventix vous fournit les bons insights — rapidement, précisément et de manière exploitable."
+    },
+    "strategicPerspective": {
+      "title": "Une perspective stratégique",
+      "description": "Les données ne sont que des chiffres sans perspective. Chez Surventix, nous ne nous contentons pas de collecter des informations — nous les analysons avec une vision stratégique pour des décisions plus intelligentes."
+    },
+    "valueDelivered": {
+      "title": "Valeur délivrée",
+      "description": "Chaque ensemble de données doit servir un objectif. Chez Surventix, nous faisons en sorte que les insights se traduisent par un impact réel. Nos recherches sont conçues pour générer des résultats commerciaux concrets."
+    },
+    "partnership": {
+      "title": "Partenariat",
+      "description": "Nous ne faisons pas que proposer de la recherche — nous construisons des partenariats durables. Surventix collabore avec des entreprises, des instituts de recherche et des leaders du secteur pour créer de la valeur à long terme."
+    },
+    "expandingPossibilities": {
+      "title": "Repousser les limites du possible",
+      "description": "L’innovation dans la recherche de marché est ce qui distingue Surventix. Nous adoptons de nouvelles méthodologies, des technologies émergentes et des stratégies avant-gardistes pour redéfinir les limites du possible."
+    },
+    "socialImpact": {
+      "title": "Impact social",
+      "description": "Chez Surventix, nous croyons au pouvoir d’une recherche responsable. Une collecte de données éthique, un engagement équitable des répondants et des initiatives durables sont au cœur de notre démarche."
+    }
+  },
+  "companyOverview": {
+    "tag": "Aperçu de l'entreprise",
+    "headline": "Des connexions plus intelligentes, des analyses renforcées, une recherche libérée - Porté par les personnes, renforcé par les partenariats",
+    "paragraph": "Chez Surventix, nous ne faisons pas que relier les points — nous propulsons les données ! Grâce à une infrastructure ouverte solide, nous tissons des objets, entités et actions de recherche dans un réseau académique fluide, stimulant la recherche ouverte comme jamais auparavant.\n\nSoutenus par notre communauté mondiale, nous assurons un échange de métadonnées précis, traitant des milliards de requêtes API pour que la recherche circule librement. Car lorsque la connaissance bouge, le monde progresse. ✨",
+    "joinPanel": "Rejoignez notre panel",
+    "contactUs": "Contactez-nous"
+  },
+  "visionMission": {
+    "our": "Notre",
+    "vision": "Vision",
+    "and": "et",
+    "mission": "Mission"
+  },
+  "sections": {
+    "0": {
+      "title": "Surventix : Pionnier de l'avenir de l'intelligence de marché",
+      "content": "Chez Surventix, nous nous engageons à redéfinir le paradigme de la recherche marketing en intégrant des cadres analytiques avancés, des écosystèmes technologiques de pointe et des méthodologies basées sur les données pour construire une infrastructure de recherche à la fois rigoureuse et adaptable."
+    },
+    "1": {
+      "title": "Innover pour avoir de l'impact",
+      "content": "Nous affinons continuellement notre approche et réimaginons des solutions pour relever les défis changeants du marché, garantissant des résultats durables et percutants."
+    },
+    "2": {
+      "title": "Autonomiser les entreprises de toutes tailles",
+      "content": "Des plus grandes entreprises indiennes visant un leadership mondial aux startups agiles favorisant le changement, nous soutenons les organisations dans leur croissance durable et inclusive."
+    },
+    "3": {
+      "title": "Partenariats stratégiques avec l'industrie",
+      "content": "Nos collaborations avec les principales entreprises d'études de marché nous permettent de favoriser la croissance, d'améliorer les capacités et d'offrir une valeur exceptionnelle à nos clients."
+    },
+    "4": {
+      "title": "L'excellence par les données",
+      "content": "Grâce à des outils numériques avancés, à l'analytique et à des décennies d'expérience, nous fournissons des informations qui ont un impact significatif et mesurable."
+    }
+  },
+  "whyChooseUs": {
+    "heading": "Pourquoi choisir Surventix ?",
+    "paragraph": "Chez Surventix, nous redéfinissons l’intelligence de marché grâce à une fusion harmonieuse de l’analytique avancée, de l’expertise stratégique et de la technologie de pointe, permettant aux entreprises de surmonter les complexités et de saisir des opportunités inexploitées avec précision. Voici ce qui nous distingue :",
+    "button": "Contactez-nous",
+    "item1": {
+      "title": "Excellence axée sur les données",
+      "description": "Nos méthodologies de recherche exclusives et nos cadres analytiques basés sur l’IA transforment les données brutes en informations exploitables à fort impact, favorisant une prise de décision éclairée."
+    },
+    "item2": {
+      "title": "Innovation tournée vers l’avenir",
+      "description": "Grâce à l’analyse prédictive, aux modèles d’apprentissage automatique et à l’anticipation sectorielle, nous ne nous contentons pas d’interpréter les tendances — nous les anticipons pour donner un avantage concurrentiel aux entreprises."
+    },
+    "item3": {
+      "title": "Expertise sectorielle inégalée",
+      "description": "Avec une équipe de stratèges expérimentés, de scientifiques des données et de spécialistes sectoriels, nous offrons une recherche rigoureuse sur le plan méthodologique et pertinente sur le plan commercial."
+    },
+    "item4": {
+      "title": "Évolutivité et personnalisation",
+      "description": "Nos solutions sont conçues pour évoluer avec les organisations, qu’il s’agisse de multinationales en quête d’expansion mondiale ou de startups agiles visant l’innovation disruptive."
+    },
+    "item5": {
+      "title": "Écosystème de recherche complet",
+      "description": "De l’acquisition de données à l’analyse multifactorielle jusqu’à la mise en œuvre stratégique, nous offrons un continuum de recherche sans faille qui génère un impact commercial mesurable."
+    },
+    "item6": {
+      "title": "Impact stratégique prouvé",
+      "description": "Chez Surventix, la recherche n’est pas seulement un exercice académique — c’est un catalyseur de croissance, de résilience et de leadership durable sur le marché."
+    }
+  },
+  "meetTeam": {
+    "heading": "Rencontrez notre équipe",
+    "paragraph": "Chez Surventix, notre équipe dirigeante est composée de professionnels passionnés et tournés vers l’avenir, engagés à façonner l’avenir de l’entreprise. Grâce à une expertise approfondie dans divers secteurs, ils travaillent sans relâche pour créer des solutions significatives favorisant le succès de nos clients à l’échelle mondiale."
+  },
+  "team": {
+    "gourav": {
+      "designation": "Fondateur & PDG",
+      "description": "Rencontrez Gourav – Le moteur de l'innovation et du succès client"
+    },
+    "priyanka": {
+      "designation": "Cofondatrice",
+      "description": "Rencontrez Priyanka – La dynamo des données qui alimente les insights et l'innovation"
+    },
+    "nikita": {
+      "designation": "Directrice générale des clients et des ventes",
+      "description": "Rencontrez Nikita – Une leader stratégique de la croissance commerciale et de l'innovation centrée sur le client"
+    },
+    "renu": {
+      "designation": "Présidente, Plateforme de recherche et d'insights",
+      "description": "Rencontrez Renu – Innovatrice des insights, elle élève les marques et favorise des connexions plus intelligentes"
+    },
+    "shivam": {
+      "designation": "Chef de projet principal",
+      "description": "Rencontrez Shivam – Dirige des projets à fort impact avec précision et passion"
+    },
+    "ved": {
+      "designation": "Chef de projet",
+      "description": "Rencontrez Ved Grover – Réalisation fluide et insights percutants"
+    }
+  },
+  "services": {
+    "subheading": "Découvrez nos solutions expertes conçues pour favoriser le succès avec innovation et efficacité.",
+    "browseNow": "Parcourir maintenant",
+    "customizedHeading": "Nos services, personnalisés pour vous",
+    "items": {
+      "item1": {
+        "title": "Collecte de Données",
+        "description": "Prenez une longueur d'avance grâce à des services de collecte et de traitement des données qui vous permettent de rester en phase avec les tendances du marché. L'accès à des informations en temps réel vous permet de prendre des décisions éclairées, de réduire les risques et d'améliorer les performances globales de votre entreprise.",
+        "content": "<div><p class=\"mb-4\">Prenez une longueur d'avance grâce à des services de collecte et de traitement des données qui vous permettent de rester en phase avec les tendances du marché. L'accès à des informations en temps réel vous permet de prendre des décisions éclairées, de réduire les risques et d'améliorer les performances globales de votre entreprise.</p><p class=\"mb-4\">Des données gérées de manière experte permettent de rationaliser les opérations en structurant les informations clés, en reconnaissant les tendances et en affinant la planification stratégique. Une collecte et une analyse continues des données permettent aux entreprises d'anticiper les évolutions du marché, d'optimiser les flux de travail et d'améliorer la prise de décision.</p><p>En automatisant les tâches de collecte de données répétitives, les organisations peuvent libérer des ressources précieuses, permettant aux équipes de se concentrer sur l'innovation et la croissance. Améliorez l'allocation des ressources, mettez en œuvre des stratégies de maintenance préventive, surveillez efficacement les actifs et renforcez l'engagement client grâce à des solutions de données avancées.</p></div>"
+      },
+      "item2": {
+        "title": "Échantillonnage en Ligne",
+        "description": "L'échantillonnage en ligne est au cœur de nos services, fournissant la base d'une collecte de données de haute qualité. Avec un panel mondial de plus de 7,5 millions de membres, nous offrons aux chercheurs en marketing, consultants et entreprises un accès fluide à des données diversifiées et fiables provenant de différentes régions et démographies. Grâce à des outils et des méthodologies avancés, nous assurons des réponses précises et opportunes, rendant chaque échantillon à la fois représentatif et complet.",
+        "content": "<div >\n\n<p class=\"mb-4\">L'échantillonnage en ligne est au cœur de nos services, fournissant la base d'une collecte de données de haute qualité. Avec un panel mondial de plus de 7,5 millions de membres, nous offrons aux chercheurs en marketing, consultants et entreprises un accès fluide à des données diversifiées et fiables provenant de différentes régions et démographies. Grâce à des outils et des méthodologies avancés, nous assurons des réponses précises et opportunes, rendant chaque échantillon à la fois représentatif et complet.</p>\n\n<p class=\"mb-4\">Pour garantir l'intégrité des données, nous appliquons des mesures strictes de contrôle qualité tout au long du processus d'échantillonnage. Cela inclut la surveillance en temps réel, la validation des données et des vérifications rigoureuses afin de détecter et d'éliminer les incohérences ou les biais. Notre engagement envers la précision garantit que les informations générées sont non seulement significatives mais également exploitables, permettant aux clients de prendre des décisions éclairées favorisant la croissance stratégique.</p>\n\n<p>En affinant continuellement nos techniques et en adoptant les dernières avancées de l'échantillonnage en ligne, nous permettons aux entreprises d'accéder à des données fiables qui représentent fidèlement leur public cible, les aidant à garder une longueur d'avance dans un marché dynamique.</p>\n</div>"
+      },
+      "item3": {
+        "title": "Programmation et Hébergement de Sondages",
+        "description": "Chez Surventix, nous sommes spécialisés dans la fourniture de solutions complètes de programmation et d'hébergement de sondages adaptées aux besoins spécifiques de nos clients. Notre équipe d'experts utilise des plateformes de pointe telles que Qualtrics, Confirmit, Decipher et Sawtooth pour créer des enquêtes fluides, interactives et engageantes qui fournissent des insights précis et précieux.",
+        "content": "<div >\n<p class=\"mb-4\">Chez Surventix, nous sommes spécialisés dans la fourniture de solutions complètes de programmation et d'hébergement de sondages adaptées aux besoins spécifiques de nos clients. Notre équipe d'experts utilise des plateformes de pointe telles que Qualtrics, Confirmit, Decipher et Sawtooth pour créer des enquêtes fluides, interactives et engageantes qui fournissent des insights précis et précieux.</p>\n<p>Nous concevons nos services de programmation de sondages pour transformer les objectifs de recherche en expériences utilisateur intuitives et faciles à comprendre. Grâce à une logique avancée, des embranchements dynamiques de questions et un support multilingue, nous garantissons que les sondages sont accessibles et pertinents pour des publics diversifiés. En intégrant des éléments multimédias, la gamification et d'autres fonctionnalités innovantes, nous augmentons l'engagement des répondants, ce qui conduit à une collecte de données de meilleure qualité.</p>\n</div>"
+      },
+      "item4": {
+        "title": "Solutions API Avancées",
+        "description": "Chez Surventix, nous proposons des solutions API sophistiquées conçues pour optimiser l'intégration des données, rationaliser les opérations et améliorer l'interopérabilité entre les plateformes. Nos API facilitent la communication fluide entre des systèmes disparates, garantissant un échange efficace des données et un accès en temps réel aux informations critiques.",
+        "content": "<div >\n<p class=\"mb-4\">Chez Surventix, nous proposons des solutions API sophistiquées conçues pour optimiser l'intégration des données, rationaliser les opérations et améliorer l'interopérabilité entre les plateformes. Nos API facilitent la communication fluide entre des systèmes disparates, garantissant un échange efficace des données et un accès en temps réel aux informations critiques.</p>\n<p class=\"mb-4\">Nous sommes spécialisés dans le développement d'API personnalisées répondant à des besoins commerciaux variés, permettant des interactions sécurisées, évolutives et automatisées entre les applications. Qu'il s'agisse d'intégrer les données de sondage avec les logiciels d'entreprise, d'automatiser les flux de rapports ou de créer des connexions transparentes avec des tiers, nos solutions sont conçues pour soutenir des écosystèmes numériques dynamiques et en évolution.</p>\n<p class=\"mb-4 font-medium text-xl\">Fonctionnalités clés :</p>\n<ul class=\"mb-4 flex flex-col gap-2\">\n<li>• <strong>Intégration des Données de Sondage</strong> – Synchroniser les plateformes de sondage avec les systèmes CRM, les outils d'analyse et les entrepôts de données.</li>\n<li>• <strong>Échange de Données en Temps Réel</strong> – Permettre la récupération instantanée de données pour une prise de décision plus rapide et plus efficace.</li>\n<li>• <strong>Automatisation des Processus</strong> – Réduire les interventions manuelles en automatisant la collecte, la validation et le reporting des données.</li>\n<li>• <strong>Infrastructure Sécurisée et Évolutive</strong> – Assurer la sécurité des données tout en prenant en charge les transactions à fort volume et l’expansion des systèmes.</li>\n</ul>\n<p>En exploitant nos solutions API avancées, les entreprises peuvent gagner en efficacité, améliorer la précision des données et ouvrir la voie à de nouvelles opportunités de transformation numérique.</p>\n</div>"
+      },
+      "item5": {
+        "title": "Recherche Qualitative et Quantitative",
+        "description": "Chez Surventix, nous sommes spécialisés dans la recherche qualitative et quantitative, offrant aux entreprises et aux chercheurs des insights complets pour une prise de décision éclairée. En combinant une analyse approfondie et une précision statistique, nous aidons les organisations à extraire des schémas significatifs, à comprendre le comportement des consommateurs et à affiner leurs stratégies à partir de données fiables.",
+        "content": "<div >\n<p class=\"mb-4\">Chez Surventix, nous sommes spécialisés dans la recherche qualitative et quantitative, offrant aux entreprises et aux chercheurs des insights complets pour une prise de décision éclairée. En combinant une analyse approfondie et une précision statistique, nous aidons les organisations à extraire des schémas significatifs, à comprendre le comportement des consommateurs et à affiner leurs stratégies à partir de données fiables.</p>\n<p class=\"mb-4 font-medium text-xl\">Recherche Quantitative : Précision Basée sur les Données</p>\n<p class=\"mb-4\">Notre approche quantitative se concentre sur la collecte de données numériques et l’analyse statistique pour mesurer les tendances, les corrélations et la dynamique du marché. Grâce à des enquêtes structurées, des sondages à grande échelle et à la modélisation des données, nous garantissons des insights robustes, objectifs et évolutifs. Nos méthodologies incluent :</p>\n<ul class=\"mb-4 flex flex-col gap-2\">\n<li>• <strong>Enquêtes et Sondages</strong> – Questionnaires structurés pour recueillir un grand nombre de réponses.</li>\n<li>• <strong>Recherche Expérimentale</strong> – Études contrôlées pour tester des hypothèses et mesurer les résultats.</li>\n<li>• <strong>Analyse Statistique</strong> – Modélisation avancée des données pour identifier les tendances et corrélations.</li>\n</ul>\n<p class=\"mb-4 font-medium text-xl\">Recherche Qualitative : Compréhension Approfondie</p>\n<p class=\"mb-4\">Pour explorer en profondeur les comportements, perceptions et motivations, nos méthodes qualitatives révèlent le « pourquoi » derrière les actions des consommateurs. Nous utilisons :</p>\n<ul class=\"mb-4 flex flex-col gap-2\">\n<li>• <strong>Groupes de Discussion</strong> – Discussions facilitant l’exploration des opinions et préférences.</li>\n<li>• <strong>Entretiens Approfondis</strong> – Conversations individuelles pour des insights détaillés.</li>\n<li>• <strong>Recherche Observationnelle</strong> – Analyse du comportement dans des environnements naturels.</li>\n</ul>\n<p>En combinant les deux méthodologies, nous offrons une perspective holistique, permettant aux entreprises de valider leurs théories avec des données concrètes tout en comprenant les émotions et motivations qui influencent les décisions des clients.</p>\n</div>"
+      },
+      "item6": {
+        "title": "Développement de Sites Web & Logiciels",
+        "description": "Chez Surventix, nous sommes spécialisés dans le développement de solutions web et logicielles innovantes conçues pour renforcer les entreprises dans un paysage numérique en constante évolution.",
+        "content": "<div >\n<p class=\"mb-4\">Chez Surventix, nous sommes spécialisés dans le développement de solutions web et logicielles innovantes conçues pour renforcer les entreprises dans un paysage numérique en constante évolution.</p>\n<p class=\"mb-4 italic\">Développement Web : Solutions Engagées et Performantes</p>\n<p class=\"mb-4\">Nos services de développement web se concentrent sur la création de sites visuellement attrayants, dynamiques et entièrement réactifs, alignés sur votre identité de marque tout en assurant une expérience utilisateur fluide. Que vous ayez besoin d'une page d'atterrissage interactive, d'une plateforme e-commerce riche en fonctionnalités ou d'un site corporate, nous concevons chaque projet avec la vitesse, la sécurité et l’optimisation mobile à l’esprit.</p>\n<p class=\"mb-4 italic\">Développement Logiciel : Conçu sur Mesure pour l’Efficacité et la Scalabilité</p>\n<p class=\"mb-4\">Dans le développement logiciel, nous concevons des solutions sur mesure pour rationaliser les opérations, améliorer la productivité et accompagner l’expansion de votre entreprise. De la création d’applications mobiles et bureautiques intuitives à la conception de systèmes d’entreprise complexes, nous exploitons les dernières technologies pour créer des applications fiables et sécurisées, y compris des CRM, des ERP et des logiciels spécifiques à chaque secteur.</p>\n<p>Chez Surventix, notre mission est de fournir des solutions numériques fonctionnelles et tournées vers l'avenir qui génèrent des résultats mesurables et un impact durable sur votre entreprise.</p>\n</div>"
+      },
+      "item7": {
+        "title": "Solutions SEO Digitales",
+        "description": "Dans le paysage numérique concurrentiel d'aujourd'hui, la visibilité en ligne est essentielle à la croissance des entreprises. Chez Surventix, nous proposons des solutions SEO complètes conçues pour améliorer le classement de votre site, augmenter le trafic organique et renforcer votre présence en ligne.",
+        "content": "<div >\n<p class=\"mb-4\">Dans le paysage numérique concurrentiel d'aujourd'hui, la visibilité en ligne est essentielle à la croissance des entreprises. Chez Surventix, nous proposons des solutions SEO complètes conçues pour améliorer le classement de votre site, augmenter le trafic organique et renforcer votre présence en ligne.</p>\n<p class=\"mb-4\">Nos spécialistes SEO adoptent une approche basée sur les données, réalisant une recherche approfondie de mots-clés, optimisant les éléments internes (balises méta, contenu, images), et mettant en œuvre des stratégies de création de liens pour renforcer l’autorité de votre site.</p>\n<p>Nous adoptons une approche holistique du SEO, intégrant l’optimisation technique, la stratégie de contenu et l’amélioration de l’expérience utilisateur pour fournir des résultats durables et mesurables. Notre objectif est d’améliorer votre visibilité, attirer un trafic ciblé et convertir les visiteurs en clients fidèles.</p>\n</div>"
+      },
+      "item8": {
+        "title": "Solutions Techniques",
+        "description": "Notre solution technique pour l’échantillonnage en ligne repose sur une infrastructure robuste conçue pour offrir une collecte de données fluide, efficace et évolutive. Au cœur de notre solution se trouve une plateforme d’échantillonnage avancée qui intègre une technologie de pointe avec notre vaste panel mondial de 7,5 millions de membres. Cette plateforme est conçue pour garantir des réponses de haute qualité et fournir des insights en temps réel dans divers domaines de recherche.",
+        "content": ""
+      }
+    }
+  },
+  "technicalSolutions": {
+    "title": "Solutions Techniques",
+    "subheading": "Découvrez nos solutions techniques expertes conçues pour stimuler le succès grâce à l'innovation et à l'efficacité.",
+    "browseNow": "Parcourir maintenant",
+    "customizedHeading": "Nos solutions techniques, personnalisées pour vous",
+    "items": {
+      "globalPanelIntegration": {
+        "title": "Intégration du Panel Mondial",
+        "description": "Notre système se connecte parfaitement à un panel mondial diversifié, offrant un accès à des répondants issus de nombreuses régions, démographies et centres d’intérêt. Cette diversité garantit que vos recherches soient à la fois complètes et représentatives d’un large éventail d’opinions.",
+        "image": "/1.jpg"
+      },
+      "adaptiveSamplingMethods": {
+        "title": "Méthodes d'Échantillonnage Adaptatif",
+        "description": "Nous utilisons des techniques d’échantillonnage adaptatif qui nous permettent d’ajuster dynamiquement les critères de sélection en fonction des données en temps réel. Cela garantit que chaque échantillon soit hautement ciblé, pertinent et aligné sur les objectifs spécifiques de votre recherche.",
+        "image": "/2.jpg"
+      },
+      "realTimeValidation": {
+        "title": "Validation des Données et Contrôle de Qualité en Temps Réel",
+        "description": "Notre plateforme comprend des algorithmes avancés de validation des données, garantissant que chaque réponse soit authentique et précise. Le suivi en temps réel permet de détecter les anomalies ou biais potentiels, et d’appliquer des mesures correctives pour préserver l'intégrité des données.",
+        "image": "/3.jpg"
+      },
+      "surveyRouting": {
+        "title": "Routage des Enquêtes et Optimisation de la Logique",
+        "description": "Notre système prend en charge des fonctionnalités avancées de routage et de logique d’enquête, permettant une expérience personnalisée pour chaque répondant. Les participants ne répondent qu’aux questions pertinentes selon leurs réponses précédentes, réduisant la fatigue et améliorant la qualité des données.",
+        "image": "/4.jpg"
+      },
+      "dataSecurity": {
+        "title": "Chiffrement des Données et Sécurité",
+        "description": "La protection de la vie privée et des données des répondants est primordiale. Notre plateforme utilise un chiffrement de bout en bout pour sécuriser les données en transit et au repos, conforme aux normes telles que le RGPD pour garantir une protection optimale.",
+        "image": "/5.jpg"
+      },
+      "realTimeReporting": {
+        "title": "Rapports et Analyses en Temps Réel",
+        "description": "Les clients peuvent accéder à des tableaux de bord interactifs affichant les résultats de collecte de données en temps réel. Ces outils permettent des analyses rapides et facilitent la prise de décisions basées sur les données sans délai.",
+        "image": "/6.jpg"
+      },
+      "aiInsights": {
+        "title": "Analyses Prédictives et Perspectives Basées sur l'IA",
+        "description": "Grâce au machine learning et aux outils d’intelligence artificielle, notre plateforme révèle des tendances cachées, anticipe les évolutions du marché et fournit des informations exploitables. Ces outils facilitent la modélisation prédictive, permettant aux entreprises de mieux planifier et agir stratégiquement.",
+        "image": "/1-1.jpg"
+      },
+      "automatedPanel": {
+        "title": "Gestion Automatisée de l’Échantillonnage et du Panel",
+        "description": "Notre plateforme automatise la gestion du panel de répondants, y compris le recrutement, l’engagement et la fidélisation. L’intelligence artificielle est utilisée pour optimiser le recrutement et surveiller la santé du panel, garantissant la disponibilité constante des répondants les plus pertinents.",
+        "image": "/2-1.jpg"
+      },
+      "multilingualSupport": {
+        "title": "Support Multilingue",
+        "description": "Pour répondre à une audience mondiale, notre système prend en charge des enquêtes multilingues, garantissant des réponses précises au-delà des barrières linguistiques tout en assurant cohérence et clarté dans l’interprétation des données.",
+        "image": "/2-1.jpg"
+      }
+    }
+  },
+  "codeOfConduct": {
+    "title": "Code de conduite",
+    "subtitle": "Soutenir l'intégrité, l'excellence et la responsabilité",
+    "description": "Chez Surventix, nous nous engageons à maintenir les normes les plus élevées d'intégrité, de professionnalisme et de respect. Notre code de conduite sert de cadre directeur pour nos employés, partenaires et parties prenantes, garantissant que nos actions reflètent toujours nos valeurs fondamentales.",
+    "items": {
+      "integrity": {
+        "title": "Intégrité",
+        "description": "Nous ne contournons pas les règles — sauf sur un camembert. Chaque interaction, décision et donnée est traitée avec honnêteté, éthique et une transparence totale, garantissant que la confiance est non seulement méritée, mais constamment renforcée."
+      },
+      "quality": {
+        "title": "Qualité",
+        "description": "Dans un monde saturé de données, nous distinguons les informations utiles du bruit. Notre engagement envers l'exactitude, la fiabilité et la rigueur analytique garantit que chaque information que nous fournissons est non seulement pertinente, mais percutante."
+      },
+      "respect": {
+        "title": "Respect",
+        "description": "Qu'il s'agisse de nos clients, panélistes ou collègues, nous croyons que les idées brillantes naissent dans un environnement de justice, d'inclusion et de respect mutuel. Chez Surventix, chaque voix compte — car des perspectives diverses mènent à de meilleures décisions et de meilleurs résultats."
+      }
+    }
+  },
+  "commitments": {
+    "items": {
+      "panelists": {
+        "title": "À nos panélistes",
+        "privacy": "Confidentialité et protection des données – Nous protégeons les informations personnelles des panélistes conformément au RGPD, à la CCPA et aux lois internationales sur la protection des données.",
+        "compensation": "Rémunération équitable et transparence – Nous garantissons des récompenses équitables pour la participation et définissons des objectifs clairs pour chaque enquête.",
+        "experience": "Expérience participant améliorée – Nous évitons les sollicitations excessives et maintenons des normes élevées d'engagement et de satisfaction."
+      },
+      "clients": {
+        "title": "À nos clients",
+        "insights": "Informations précises et exploitables – Nous fournissons des données impartiales et de haute qualité, adaptées aux besoins du client.",
+        "professionalism": "Professionnalisme et confidentialité – Nous garantissons des pratiques de recherche sécurisées, ponctuelles et éthiques.",
+        "integrity": "Engagement envers l'intégrité – Nous évitons strictement toute falsification de données ou comportement de recherche non éthique."
+      },
+      "employees": {
+        "title": "À nos employés",
+        "culture": "Culture inclusive et solidaire – Nous cultivons un environnement de travail positif où chaque employé se sent valorisé.",
+        "innovation": "Promotion de l’innovation et de la croissance – Nous favorisons la collaboration, la créativité et l’apprentissage continu.",
+        "diversity": "Diversité, équité et inclusion – Nous défendons l’égalité des chances et le respect de toutes les perspectives."
+      }
+    }
+  },
+  "ethics": {
+    "heading": "Pratiques éthiques : Maintenir l'intégrité et la responsabilité",
+    "description": "Chez Surventix, la conduite éthique est la pierre angulaire de nos opérations. Nous nous engageons à maintenir les normes les plus élevées de professionnalisme, d'équité et de responsabilité dans toutes nos activités. Notre approche des pratiques éthiques garantit que notre travail reste transparent, conforme et respectueux de toutes les parties prenantes.",
+    "items": {
+      "transparency": {
+        "title": "Assurer la transparence dans la prise de décision",
+        "description": "Nous identifions et atténuons de manière proactive toute situation pouvant créer un biais ou une influence indue. En cas de problème potentiel, nous assurons une transparence totale et une divulgation complète afin de maintenir la confiance et l’équité dans toutes les relations professionnelles."
+      },
+      "legal": {
+        "title": "Respecter les normes légales et industrielles",
+        "description": "Notre travail est conforme aux réglementations juridiques et professionnelles les plus strictes, y compris les directives d'ESOMAR et de MRS. En suivant ces cadres éthiques reconnus internationalement, nous garantissons des pratiques de recherche responsables et l'intégrité des données."
+      },
+      "discrimination": {
+        "title": "Rejeter la discrimination et les comportements non éthiques",
+        "description": "Nous appliquons une politique de tolérance zéro à l'égard de toute forme de discrimination, de harcèlement ou de comportement non éthique. Tout incident est immédiatement signalé et traité afin de garantir un environnement de travail et de recherche sûr, équitable et respectueux."
+      }
+    }
+  },
+  "faq": {
+    "heading": "Conformité et responsabilité : maintenir l'excellence éthique",
+    "description": "Chez Surventix, nous reconnaissons que l'intégrité n'est pas seulement une attente, c'est une exigence fondamentale. Notre engagement inébranlable envers l'excellence éthique est renforcé par un cadre structuré de conformité et de responsabilité, garantissant que chaque action est alignée sur nos valeurs fondamentales et nos obligations légales.",
+
+    "items": {
+      "commitment": {
+        "title": "Engagement envers le respect et l'application",
+        "description": "Nous exigeons de tous les employés, partenaires et parties prenantes qu'ils respectent strictement notre Code de conduite, en intégrant la prise de décision éthique dans tous les aspects de nos opérations. Grâce à une supervision constante et à des conseils proactifs, nous cultivons une culture où la conformité est un principe fondamental et non une réflexion secondaire."
+      },
+      "evolution": {
+        "title": "Évolution continue des politiques et adaptabilité éthique",
+        "description": "Les environnements éthiques et réglementaires évoluent constamment, et nous aussi. Nous révisons, affinons et mettons régulièrement à jour nos politiques afin de refléter les cadres juridiques émergents, les meilleures pratiques de l'industrie et les avancées éthiques, garantissant ainsi une gouvernance solide, pertinente et tournée vers l'avenir."
+      },
+      "accountability": {
+        "title": "Responsabilité par une supervision structurée",
+        "description": "La conformité sans responsabilité est inefficace. Nous avons mis en place des mécanismes de signalement clairs et des protocoles d'action corrective pour traiter toute violation de notre Code de conduite. En tenant les individus responsables des manquements éthiques, nous renforçons l'intégrité de notre organisation tout en favorisant un environnement de confiance, d'équité et de professionnalisme."
+      }
+    }
+  },
+  "careerPage": {
+    "home": "Accueil",
+    "career": "Carrière",
+    "heroTitle": "Construisez un avenir",
+    "subHeroTitle": "auquel vous croyez",
+    "browseJobs": "Voir les offres",
+    "joinTeam": "Rejoignez notre équipe",
+    "joinTeamDesc": "En tant qu'entreprise mondiale, nous offrons des opportunités de carrière et de développement exceptionnelles avec une rémunération attractive pour les candidats dans différents rôles au sein de nos services de recherche en ligne et de conseil, dans nos bureaux d’entreprise et filiales régionales en Asie-Pacifique, Amérique du Nord, Europe et Moyen-Orient.",
+    "kickstartTitle": "Lancez votre carrière avec",
+    "kickstartDesc": "Vous recherchez une carrière dans la recherche de marché et les études de consommation ? Chez Surventix, nous offrons des opportunités passionnantes aux personnes ambitieuses souhaitant évoluer, apprendre et avoir un impact dans le monde en constante évolution de la donnée et de la publicité.",
+    "shareCV": "Envoyez votre CV mis à jour à",
+    "benefits": [
+      {
+        "id": 1,
+        "title": "Expérience pratique",
+        "description": "Travaillez sur des projets concrets et gagnez en expérience réelle."
+      },
+      {
+        "id": 2,
+        "title": "Encadrement par des experts",
+        "description": "Apprenez auprès de leaders du secteur expérimentés."
+      },
+      {
+        "id": 3,
+        "title": "Environnement axé sur l'innovation",
+        "description": "Faites partie d'une équipe dynamique qui valorise les idées nouvelles."
+      },
+      {
+        "id": 4,
+        "title": "Développement de carrière",
+        "description": "Posez des bases solides pour une réussite à long terme."
+      }
+    ]
+  },
+  "opportunities": {
+    "items": {
+      "corporate": {
+        "title": "Postes en entreprise chez Surventix",
+        "content": [
+          "Chez Surventix, nos équipes d'entreprise jouent un rôle essentiel dans la réussite commerciale et la fluidité des services. Nous soutenons nos opérations régionales grâce à notre expertise en développement commercial, conception de services, innovation produit, opérations et gestion des études de marché.",
+          "Pour favoriser le développement professionnel et la progression de carrière, nous proposons des opportunités d’emploi stimulantes, des projets pratiques et des programmes de formation complets. Grâce à l’apprentissage continu et au renforcement des compétences, nous permettons à nos équipes d’atteindre leur plein potentiel et de marquer durablement le domaine des études de marché et de la publicité.",
+          "Chez Surventix, la réussite de nos collaborateurs est notre réussite."
+        ]
+      },
+      "learning": {
+        "title": "Un environnement d’apprentissage chez Surventix",
+        "content": [
+          "Chez Surventix, l’apprentissage continu est au cœur de notre culture. Nous offrons des rotations de poste, des missions pratiques et des formations sur le terrain pour favoriser la croissance professionnelle.",
+          "Nos programmes de formation renforcent les compétences, notamment via le Programme de Développement Exécutif Surventix (SEDP) destiné aux futurs leaders, et des cours spécialisés en collaboration avec des institutions de premier plan.",
+          "Nous proposons également des Programmes de Développement pour diplômés afin de soutenir les meilleurs jeunes talents, avec des parcours accélérés pour les employés à fort potentiel.",
+          "Chez Surventix, l’apprentissage ne s’arrête jamais—car lorsque nos collaborateurs évoluent, notre succès grandit avec eux."
+        ]
+      },
+      "culture": {
+        "title": "Surventix n’est pas une simple société d'études de marché en ligne",
+        "content": [
+          "C’est là où la recherche rencontre la révolution. Nous ne faisons pas qu’écouter nos collaborateurs ; nous leur donnons les outils, la confiance et l’espace pour s’épanouir. Chez Surventix, nous encourageons l’esprit entrepreneurial, en créant une culture où le travail acharné est célébré, l’innovation encouragée, et où nous travaillons dur mais fêtons encore plus fort. Ici, nous ne faisons pas que marquer l’industrie, nous assurons à notre équipe de surfer sur toutes les vagues du succès."
+        ]
+      },
+      "engaging": {
+        "title": "Des opportunités passionnantes avec Surventix",
+        "content": [
+          "Rejoignez la communauté Surventix et explorez des opportunités passionnantes pour participer à des enquêtes et projets de recherche engageants. En partageant vos précieuses idées, vous contribuez à façonner l’avenir des produits et services, tout en étant récompensé pour votre temps et vos efforts. Collaborez avec des marques et entreprises renommées, et profitez des avantages d’un réseau de recherche dynamique et tourné vers l’avenir. Vos opinions comptent chez Surventix – ensemble, nous pouvons stimuler l’innovation et la croissance dans tous les secteurs."
+        ]
+      },
+      "impact": {
+        "title": "Un impact concret avec Surventix",
+        "content": [
+          "Chez Surventix, vos opinions ont le pouvoir d’influencer le développement réel de produits et les stratégies marketing. En partageant vos retours authentiques de consommateur, vous contribuez directement à façonner l’avenir des industries, aidant les marques à concevoir des produits et services qui répondent réellement aux besoins de leurs clients. Rejoignez un mouvement qui valorise votre voix, où vos idées jouent un rôle essentiel pour apporter des changements significatifs dans divers secteurs. Avec Surventix, vous ne participez pas seulement à des recherches – vous faites la différence."
+        ]
+      },
+      "support": {
+        "title": "Un accompagnement inégalé avec Surventix",
+        "content": [
+          "Chez Surventix, votre expérience est notre priorité à chaque étape. Notre équipe dévouée s’engage à offrir un accompagnement fluide pour que vous puissiez participer en toute confiance. Nous fonctionnons avec une transparence totale et respectons des pratiques de recherche éthiques pour garantir votre confiance. Que vous ayez une question ou besoin d’aide, nous assurons une résolution rapide et une compensation équitable pour votre temps et vos contributions. Avec Surventix, vous bénéficiez d’une implication fiable, respectueuse et éthique dans chaque projet de recherche."
+        ]
+      },
+      "learning": {
+        "title": "Apprentissage continu avec Surventix",
+        "content": [
+          "Surventix vous offre une opportunité unique d’explorer une variété d’industries et de tendances du marché, élargissant ainsi votre compréhension du monde des affaires. En participant à nos projets de recherche, vous approfondirez vos connaissances sur le comportement des consommateurs et les stratégies commerciales. En tant que membre, vous recevrez également des rapports et des informations exclusives sur les tendances émergentes, vous donnant un avantage précieux pour anticiper les évolutions du marché. Avec Surventix, votre parcours d’apprentissage ne s’arrête jamais – il vous donne le pouvoir de faire évoluer votre vie professionnelle et personnelle."
+        ]
+      },
+      "professional": {
+        "title": "Croissance professionnelle avec Surventix",
+        "content": [
+          "Surventix constitue une excellente plateforme pour bâtir votre réputation en tant que répondant de confiance et expert en études de marché. En partageant régulièrement des idées précieuses, vous gagnerez en crédibilité et deviendrez une voix reconnue dans la communauté de la recherche. Vous accéderez également à des opportunités de réseautage exclusives avec des professionnels du marketing, de la recherche et de l’analyse. Participer à Surventix peut aussi ouvrir la voie à des carrières prometteuses dans les domaines de la recherche, des insights et des rôles axés sur les données. Avec Surventix, vos contributions peuvent propulser votre carrière vers de nouveaux sommets."
+        ]
+      }
+    }
+  },
+  "security_check": {
+    "hero": {
+      "heading": "Verrouillez-le. Protégez-le. Faites-lui confiance.",
+      "subheading": "Chez Surventix, nous priorisons la sécurité des données avec un chiffrement de pointe, une authentification stricte et une conformité mondiale — garantissant que vos informations restent sûres, privées et fiables.",
+      "button": "En savoir plus"
+    },
+    "sectionOnline": {
+      "introHeading1": "Chez",
+      "introHeading2": "Surventix, ",
+      "introHeading3": "la sécurité, c’est",
+      "introHeading4": "la réussite",
+      "introParagraph": "Dans le monde numérique d’aujourd’hui, une excellente recherche n’est pas seulement intelligente — elle est sécurisée. Chez Surventix, nous croyons que la base d’une recherche approfondie et exploitable est la confiance, et cela commence par une sécurité en ligne infaillible.",
+      "heading": "Sécurité de la Recherche de Marché en Ligne chez Surventix",
+      "paragraph": "Chez Surventix, nous garantissons la sécurité et l'intégrité de chaque point de données collecté. Notre plateforme de recherche de marché en ligne est construite avec des protocoles de sécurité avancés, incluant un chiffrement de bout en bout, un stockage sécurisé des données et une authentification multi-couches pour protéger la vie privée des répondants et les informations clients. Nous respectons rigoureusement les normes mondiales de protection des données comme le RGPD et le CCPA, assurant conformité et tranquillité d'esprit. Nos systèmes détectent et empêchent activement la fraude liée aux sondages, les bots et les réponses en double. En alliant technologie et confiance, Surventix fournit des insights à la fois précis et éthiquement sécurisés — car vos données méritent le plus haut niveau de protection."
+    },
+    "sectionHighlight": {
+      "introHeading1": "Chez",
+      "introHeading2": "Surventix, ",
+      "introHeading3": "la sécurité, c’est",
+      "introHeading4": "la réussite",
+      "introParagraph": "Dans le monde numérique d’aujourd’hui, une excellente recherche n’est pas seulement intelligente — elle est sécurisée. Chez Surventix, nous croyons que la base d’une recherche approfondie et exploitable est la confiance, et cela commence par une sécurité en ligne infaillible."
+    }
+  },
+  "contactCard": {
+    "title": "En savoir plus sur nous ?",
+    "line1": "Nous sommes bien plus que des enquêtes et des données — nous sommes à propos d'insights intelligents, d’expériences fluides et de connexions significatives.",
+    "line2": "Que vous soyez curieux de savoir ce que nous faisons, que vous ayez une question ou que vous souhaitiez explorer des opportunités potentielles — nous serions ravis d'avoir de vos nouvelles !",
+    "ctaLine": "Contactez-nous à :",
+    "email": "Sales@surventix.com",
+    "footerNote": "Connectons-nous et créons ensemble quelque chose d'impactant."
+  },
+  "stepForm": {
+    "mode1": {
+      "heading": "Quels sont les plus grands défis de la recherche ?",
+      "description": "Dans un monde entièrement numérique, la confiance est notre plus grand défi. Pas seulement la gagner — mais la conserver.\nChez Surventix, nous ne faisons pas que combattre les bots ou sécuriser les serveurs. Nous protégeons quelque chose de plus précieux : l'honnêteté derrière chaque réponse, la confidentialité derrière chaque clic, et la confiance que nos clients placent dans des données qui influencent de grandes décisions.\nLe paysage évolue sans cesse — nouvelles lois sur la vie privée, fraudes plus intelligentes, piratages plus rapides. Mais notre mission reste la même : faire en sorte que la recherche reste un espace sûr — pour les marques, les consommateurs et la vérité."
+    },
+    "mode2": {
+      "heading": "Voici comment nous relevons le défi",
+      "description": "Chez Surventix, nous relevons les défis de la sécurité des études de marché en ligne grâce à une approche multicouche. Notre plateforme utilise un chiffrement avancé et des outils de détection de fraude pour garantir l'intégrité des données et protéger la confidentialité des répondants. Nous respectons rigoureusement les normes mondiales de conformité comme le RGPD et le CCPA, tandis que nos processus d'authentification en temps réel assurent des réponses authentiques. Grâce à des mises à jour continues et des mesures de sécurité proactives, nous restons en avance sur les menaces émergentes. Notre priorité à la transparence et à la confiance permet à nos clients de prendre des décisions fondées sur des données propres, sécurisées et fiables — à chaque fois."
+    }
+  },
+  "securityCheck": {
+    "advancedEncryption": {
+      "title": "Chiffrement avancé des données",
+      "item1": "Nous utilisons le chiffrement de bout en bout (E2EE) avec les protocoles SSL/TLS pour sécuriser les données pendant leur transmission et le chiffrement AES-256 pour leur stockage.",
+      "item2": "Nos plateformes d’enquête sont dotées d’un chiffrement robuste garantissant que toutes les réponses restent protégées contre tout accès non autorisé."
+    },
+    "verifiedIdentities": {
+      "title": "Identités des répondants vérifiées",
+      "item1": "Nous utilisons le RelevantID® d’Imperium pour valider les identités des participants et prévenir les réponses frauduleuses.",
+      "item2": "Les mécanismes CAPTCHA et ReCAPTCHA bloquent les bots automatisés, garantissant la participation de vrais répondants.",
+      "item3": "L’empreinte numérique des appareils nous aide à détecter et prévenir les soumissions en double depuis un même appareil.",
+      "item4": "Grâce au Surventix Digital Score, nous évaluons et filtrons les répondants selon leur comportement historique.",
+      "item5": "Nous utilisons un système de score qualité interne (RQS) pour surveiller la qualité des réponses. Les participants ayant un score trop bas sont temporairement exclus des enquêtes, garantissant l'intégrité globale des données."
+    },
+    "dataPrivacy": {
+      "title": "Confidentialité et conformité des données",
+      "item1": "Surventix respecte les réglementations mondiales, notamment le RGPD, le CCPA et d'autres lois locales sur la confidentialité.",
+      "item2": "Nous mettons l’accent sur le consentement éclairé afin que les participants comprennent comment leurs données sont collectées et utilisées.",
+      "item3": "Les données personnelles sont anonymisées ou pseudonymisées autant que possible pour minimiser les risques."
+    },
+    "apiSolutions": {
+      "title": "Solutions API avancées",
+      "item1": "Grâce aux scores de probabilité de fraude et à des outils IA comme Fraudience, nous détectons les comportements suspects.",
+      "item2": "La surveillance des adresses IP nous permet de repérer et bloquer les serveurs proxy et les localisations douteuses.",
+      "item3": "Notre système de déduplication garantit des réponses uniques et fiables.",
+      "item4": "Nous intégrons DataDome, une solution de protection contre les bots, pour empêcher les tentatives automatisées et frauduleuses."
+    },
+    "systemSecurity": {
+      "title": "Sécurité système renforcée",
+      "item1": "Nos systèmes sont protégés par des pare-feu avancés et des systèmes de détection d'intrusion (IDS) contre tout accès non autorisé.",
+      "item2": "Des audits de sécurité et tests de pénétration sont régulièrement menés pour identifier et corriger les vulnérabilités.",
+      "item3": "L’accès aux données sensibles est strictement contrôlé selon les rôles et responsabilités des utilisateurs."
+    },
+    "dataStorage": {
+      "title": "Stockage et transfert sécurisés des données",
+      "item1": "Nous collaborons avec des fournisseurs cloud certifiés et sécurisés respectant des normes strictes.",
+      "item2": "Nous suivons les principes de minimisation des données, ne collectant que les informations essentielles.",
+      "item3": "Les données sensibles sont transférées via des protocoles sécurisés comme le SFTP pour garantir leur confidentialité.",
+      "item4": "Une validation serveur-à-serveur sécurisée vérifie l’authenticité des réponses, assurant qu’elles proviennent de sources fiables."
+    },
+    "geoTagging": {
+      "title": "Géolocalisation et vérification de localisation",
+      "item1": "Surventix utilise la géolocalisation, les vérifications IP, les langues du navigateur et les contrôles de pays pour valider les lieux de participation.",
+      "item2": "Tout écart est signalé, garantissant que seuls les vrais répondants sont pris en compte."
+    },
+    "realTimeMonitoring": {
+      "title": "Surveillance en temps réel et alertes",
+      "item1": "Notre plateforme surveille en continu les activités d’enquête afin de détecter les comportements inhabituels.",
+      "item2": "Des alertes automatisées sont générées en cas de suspicion pour permettre une réaction immédiate."
+    },
+    "transparency": {
+      "title": "Transparence et responsabilité",
+      "item1": "Nos politiques de confidentialité expliquent clairement comment les données sont collectées, stockées et utilisées.",
+      "item2": "Des journaux d’audit détaillés enregistrent chaque accès ou modification de données pour une traçabilité maximale.",
+      "item3": "Tous les partenaires et fournisseurs doivent respecter nos normes de sécurité et de confidentialité strictes."
+    },
+    "digitalSecurity": {
+      "title": "Mesures de sécurité numérique",
+      "item1": "Le système Verify Callback garantit que les réponses sont validées via des plateformes de confiance, réduisant les soumissions non autorisées.",
+      "item2": "Des questions pièges stratégiques détectent les répondants inattentifs ou malhonnêtes.",
+      "item3": "La validation des paiements assure que seules les réponses complètes sont récompensées, réduisant les fraudes.",
+      "item4": "Le Speeder Check identifie les participants qui terminent l’enquête trop rapidement, révélant de possibles réponses de faible qualité."
+    },
+    "dupeScore": {
+      "title": "Score de duplication et vérification des doublons",
+      "description": "Chez Surventix, nous assurons l’intégrité des données grâce à un système rigoureux d’évaluation des répondants. Chaque participant reçoit un score basé sur ses schémas de réponse, son attention et sa cohérence. En cas de score faible, il est temporairement exclu des enquêtes. Cela garantit des données fiables et exploitables pour les entreprises."
+    }
+  },
+
+  "securityFlow": {
+    "heading": "Schéma de sécurité",
+    "accessSurvey": {
+      "title": "Accéder à l'enquête",
+      "description": "Les participants commencent le processus en accédant au lien ou à la plateforme fournie."
+    },
+    "provideConsent": {
+      "title": "Fournir le consentement",
+      "description": "Les répondants doivent lire et accepter les conditions, confirmant leur volonté de participer à l'enquête."
+    },
+    "verification": {
+      "title": "Vérification et clé HASH",
+      "description": "Distill vérifie la légitimité de l'utilisateur ; une clé HASH unique garantit une entrée sécurisée et authentifiée."
+    },
+    "tracking": {
+      "title": "Suivi de la localisation et du système",
+      "description": "Le système enregistre la localisation, l'adresse IP et les détails du dispositif pour prévenir les fraudes."
+    },
+    "fraudProfiling": {
+      "title": "Profilage de fraude et déduplication",
+      "description": "Les outils analysent les réponses à la recherche de modèles suspects ou de doublons."
+    },
+    "redHerring": {
+      "title": "Questions pièges",
+      "description": "Des questions intentionnelles permettent de vérifier l’attention du répondant."
+    },
+    "surveyEntry": {
+      "title": "Début du questionnaire",
+      "description": "Une fois vérifié, le répondant commence officiellement à répondre aux questions."
+    },
+    "completeSurvey": {
+      "title": "Compléter l'enquête",
+      "description": "Le participant répond à toutes les questions et termine le questionnaire."
+    },
+    "exitHash": {
+      "title": "Vérification de la clé HASH de sortie",
+      "description": "Le système vérifie que la même personne a complété l'enquête avec la clé HASH de sortie."
+    },
+    "surveyComplete": {
+      "title": "Enquête terminée",
+      "description": "L'enquête est terminée avec succès et les données sont stockées en toute sécurité pour l'analyse."
+    }
+  },
+  "surventixHighlights": {
+    "purposeDriven": {
+      "title": "Axé sur les objectifs, guidé par la confidentialité",
+      "description": "Chez Surventix, chaque initiative de recherche commence par un objectif clair — et un cadre de sécurité encore plus rigoureux. De la configuration du projet à la livraison des données, chaque point de contact est conçu avec la confidentialité à l'esprit. Vos objectifs sont protégés et vos insights restent à l’abri des bruits, violations ou acteurs malveillants."
+    },
+    "realPeople": {
+      "title": "De vraies personnes, pas des robots",
+      "description": "Nous ne traitons pas de clics suspects ou de fantômes numériques. Surventix utilise des filtres intelligents, des outils de détection de fraude et une validation des répondants pour s’assurer que seules de vraies personnes qualifiées participent. Des données plus propres, des insights plus riches, et des résultats dignes de confiance."
+    },
+    "builtInProtection": {
+      "title": "Protection intégrée, pas de rustines rajoutées",
+      "description": "Notre plateforme ne se contente pas d'« avoir » une sécurité — elle l'incarne. Le chiffrement de bout en bout, l'hébergement sécurisé, le contrôle d'accès et les audits système réguliers garantissent un environnement de recherche hermétique. Pas de solutions obsolètes, ni de patchs bricolés — seulement une sécurité moderne conçue dès le départ."
+    },
+    "compliance": {
+      "title": "Totalement conforme, entièrement transparent",
+      "description": "Nous ne faisons pas que suivre les lois sur la confidentialité — nous en respectons l’esprit. Surventix est conçu pour être conforme au RGPD, au CCPA et à d’autres réglementations locales, garantissant la protection des droits des répondants et des données clients. La transparence est essentielle — car la vraie confiance ne se simule pas."
+    },
+    "cleanData": {
+      "title": "Des données propres = des insights clairs",
+      "description": "Des plateformes sécurisées génèrent des participants confiants. Et des participants confiants produisent de meilleures données. Nos outils réduisent les biais, éliminent les entrées frauduleuses et assurent l’intégrité des données — pour des insights fiables et exploitables."
+    },
+    "researchImpact": {
+      "title": "Une recherche qui fait bouger les lignes",
+      "description": "En combinant ciblage intelligent, pratiques éthiques et technologie sécurisée, Surventix permet une recherche qui produit des résultats. Vous explorez le comportement des consommateurs sans risques, et passez plus vite de l’insight à l’impact — en toute confiance."
+    }
+  }
+}
