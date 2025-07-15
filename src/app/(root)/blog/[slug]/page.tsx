@@ -12,9 +12,18 @@ import {
 } from "@/components/ui/breadcrumb";
 import { useTranslation } from "react-i18next";
 
-const BlogDetails = ({ params }: { params: { slug: string } }) => {
+type Props = {
+  params: {
+    slug: string;
+  };
+};
+
+
+const BlogDetails = async ({
+  params,
+}:  Props) => {
   const { t } = useTranslation();
-  const blogsData = BLOGS(t); // Make sure BLOGS accepts i18n properly
+  const blogsData = BLOGS(t); 
   const blog = blogsData.find((b) => b.slug === params.slug);
 
   if (!blog) {
