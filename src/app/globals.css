@@ -217,3 +217,85 @@ body {
 .glass-card {
   @apply backdrop-blur-lg bg-white/5 border border-white/10 shadow-lg;
 }
+
+@keyframes float-left {
+  0% {
+    transform: translateY(0px) rotate(0deg);
+  }
+
+  50% {
+    transform: translateY(-5px) rotate(-1.5deg);
+  }
+
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+}
+
+@keyframes float-right {
+  0% {
+    transform: translateY(0px) rotate(0deg);
+  }
+
+  50% {
+    transform: translateY(-5px) rotate(1.5deg);
+  }
+
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+}
+
+.float-left {
+  animation: float-left 3s ease-in-out infinite;
+}
+
+.float-right {
+  animation: float-right 3s ease-in-out infinite;
+}
+
+.hover-shine::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(110deg,
+      rgba(255, 255, 255, 0.05) 0%,
+      rgba(255, 255, 255, 0.2) 20%,
+      rgba(255, 255, 255, 0.05) 40%,
+      transparent 100%);
+  background-size: 200% 100%;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 1;
+  border-radius: 0.75rem;
+}
+
+.hover-shine:hover::before {
+  animation: shine 2s linear infinite;
+  opacity: 1;
+}
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #7790a3ae;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #012641;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #00233cbf;
+}

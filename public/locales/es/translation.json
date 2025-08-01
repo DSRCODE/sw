@@ -48,6 +48,7 @@
     }
   },
   "signup": {
+    "signup": "Regístrate ahora",
     "title": "Bienvenido a Surventix",
     "subtitle": "Regístrate para crear tu primera cuenta en Surventix y comenzar a explorar",
     "nameLabel": "Nombre",
@@ -807,5 +808,118 @@
       "title": "Investigación que Marca la Diferencia",
       "description": "La combinación de segmentación inteligente, ética y tecnología segura produce investigaciones con impacto real. Surventix te ayuda a avanzar de la idea a la acción con confianza."
     }
+  },
+  "panel": {
+    "herosection": {
+      "title": "¡Únete a Vortex Panel – que te paguen por tus ideas!",
+      "subheading": "Vortex Panel no es una empresa de muestreo en línea cualquiera: es el compañero tecnológico y cool que tus estudios de mercado necesitaban. ¿Listo para transformar la recolección de insights? Reunimos una multitud dinámica que da feedback tan real como se puede."
+    },
+    "detailssection": {
+      "title": "¿Por qué Vortex?",
+      "subheading": "Convierte tus opiniones en recompensas – ¡Vortex Panel te necesita! Responde encuestas divertidas, comparte tu punto de vista y acumula grandes premios. Nada aburrido: solo conversación genuina y beneficios reales."
+    },
+    "cardsection": {
+      "t1": {
+        "title": "🗣 Habla con libertad",
+        "desc": "Gana recompensas cool solo por dar tu opinión."
+      },
+      "t2": {
+        "title": "😎 Sin complicaciones",
+        "desc": "Sin estrés—solo encuestas divertidas y ganancias al instante."
+      },
+      "t3": {
+        "title": "💥 Voz poderosa",
+        "desc": "Tu feedback impulsa la innovación. ¡Y merece recompensa!"
+      }
+    },
+    "questionsection": {
+      "header": {
+        "title": "Preguntas frecuentes",
+        "desc": "Encuentra respuestas rápidas para tus dudas y preocupaciones"
+      },
+      "steps": {
+        "s1": {
+          "no": "01",
+          "title": "¿Qué es un panel de investigación?",
+          "desc": "Un panel de investigación es un grupo de personas que acuerdan participar en encuestas de mercado y compartir sus opiniones sobre diversos temas."
+        },
+        "s2": {
+          "no": "02",
+          "title": "¿Cómo me uno al panel?",
+          "desc": "Puedes registrarte completando el formulario en nuestro sitio web. Se te pedirá información básica para emparejarte con encuestas adecuadas."
+        },
+        "s3": {
+          "no": "03",
+          "title": "¿Es gratis unirse?",
+          "desc": "Sí, unirse es completamente gratuito. No hay cargos ocultos ni compromisos."
+        },
+        "s4": {
+          "no": "04",
+          "title": "¿Con qué frecuencia recibiré encuestas?",
+          "desc": "Las invitaciones dependen de tu perfil y las necesidades de cada proyecto. Algunos reciben varias por semana, otros menos frecuentemente."
+        },
+        "s5": {
+          "no": "05",
+          "title": "¿Debo completar cada encuesta que reciba?",
+          "desc": "No, la participación es voluntaria. Sin embargo, cuantos más completes, más recompensas puedes obtener."
+        },
+        "s6": {
+          "no": "06",
+          "title": "¿Por qué soy descalificado de algunas encuestas?",
+          "desc": "Las encuestas pueden tener requisitos demográficos o de comportamiento. Si no cumples, puedes ser rechazado."
+        },
+        "s7": {
+          "no": "07",
+          "title": "¿Qué recompensas recibo por completar encuestas?",
+          "desc": "Puedes recibir puntos, dinero, tarjetas de regalo u otras recompensas, dependiendo de la encuesta."
+        },
+        "s8": {
+          "no": "08",
+          "title": "¿Cuándo recibo mis recompensas?",
+          "desc": "Las recompensas normalmente se acreditan pocos días después de completar la encuesta exitosamente."
+        },
+        "s9": {
+          "no": "09",
+          "title": "¿Por qué mi encuesta terminó a la mitad?",
+          "desc": "Esto puede ocurrir si el cupo ya está lleno o si tus respuestas no cumplen con los estándares de calidad."
+        },
+        "s10": {
+          "no": "10",
+          "title": "¿Puedo actualizar mi perfil?",
+          "desc": "Sí, mantener tu perfil actualizado ayuda a recibir encuestas relevantes. Puedes iniciar sesión en cualquier momento para cambiarlo."
+        },
+        "s11": {
+          "no": "11",
+          "title": "¿Cómo se protegen mis datos personales?",
+          "desc": "Tus datos se manejan según políticas estrictas de privacidad y leyes aplicables. Nunca los vendemos."
+        },
+        "s12": {
+          "no": "12",
+          "title": "¿Puedo darme de baja del panel?",
+          "desc": "Sí, puedes darte de baja en cualquier momento desde el enlace en un correo o contactando al soporte."
+        },
+        "s13": {
+          "no": "13",
+          "title": "¿Qué hago si tengo problemas técnicos?",
+          "desc": "Contacta a soporte con el enlace de la encuesta y describe el problema. Te ayudaremos lo más pronto posible."
+        },
+        "s14": {
+          "no": "14",
+          "title": "¿Puedo tomar encuestas desde mi móvil o tablet?",
+          "desc": "Sí, la mayoría son compatibles móviles; para mejor experiencia usa un ordenador cuando sea posible."
+        },
+        "s15": {
+          "no": "15",
+          "title": "¿Qué pasa si pierdo una invitación?",
+          "desc": "Una vez que una encuesta cierra o alcanza su límite, ya no está disponible. Revisa tu correo regularmente."
+        },
+        "s16": {
+          "no": "16",
+          "title": "Recibe tus recompensas",
+          "desc": "Recibe el pago mediante tarjetas de regalo, PayPal u otras opciones disponibles."
+        }
+      }
+    }
+
   }
 }

@@ -62,6 +62,7 @@
     "registering": "Registering...",
     "haveAccount": "Already have an account?",
     "login": "Login",
+    "signup": "Sign up now",
     "alert": {
       "verificationSent": "A verification link has been sent to your email!"
     },
@@ -626,7 +627,7 @@
           "At Surventix, we prioritize your experience every step of the way. Our dedicated team is committed to providing seamless support, ensuring you have everything you need to participate with confidence. We operate with complete transparency, adhering to ethical research practices to guarantee your trust. Whether you have a query or need assistance, we offer quick resolution and fair compensation for your time and insights. With Surventix, you can be assured of reliable, supportive, and ethical involvement in every research project."
         ]
       },
-     
+
       "professional": {
         "title": "Professional Growth with Surventix",
         "content": [
@@ -809,6 +810,119 @@
     "researchImpact": {
       "title": "Research That Moves the Needle",
       "description": "When you combine smart targeting, ethical practices, and secure technology, the result is research that drives results. Surventix empowers you to explore consumer behavior without the risk, helping you move faster from insight to impact—with confidence at every step."
+    }
+  },
+
+  "panel": {
+    "herosection": {
+      "title": "Join Vortex Panel – Get Paid for Your Thoughts!",
+      "subheading": "Vortex Panel is not your average online sampling company—it’s the cool, tech-savvy sidekick your market research needed! Ready to shake up how you gather insights? We bring together a dynamic crowd of respondents to give you feedback that’s as real as it gets."
+    },
+    "detailssection": {
+      "title": "Why Vortex?",
+      "subheading": "Ready to turn your opinions into rewards Vortex Panel is calling YOU! Take fun surveys, share your views, and rack up awesome rewards. No boring stuff—just real talk and real gains!"
+    },
+    "cardsection": {
+      "t1": {
+        "title": "🗣 Speak your mind",
+        "desc": "Cash in on cool rewards just for sharing your thoughts."
+      },
+      "t2": {
+        "title": "😎 No Hassles",
+        "desc": "No stress—just pure fun surveys and instant earning."
+      },
+      "t3": {
+        "title": "💥 Powerful Voice",
+        "desc": "Your feedback drives innovation. Get rewarded for it!"
+      }
+    },
+    "questionsection": {
+      "header": {
+        "title": "Frequently Asked Questions",
+        "desc": "Find quick answers to your common doubts & concerns"
+      },
+      "steps": {
+        "s1": {
+          "no": "01",
+          "title": "What is a research panel?",
+          "desc": "A research panel is a group of individuals who have agreed to participate in market research surveys and share their opinions on various topics."
+        },
+        "s2": {
+          "no": "02",
+          "title": "How do I join the panel?",
+          "desc": "You can sign up by completing the registration form on our website. You’ll be asked to provide basic information to match you with suitable surveys."
+        },
+        "s3": {
+          "no": "03",
+          "title": "Is it free to join?",
+          "desc": "Yes, joining our panel is completely free. There are no hidden charges or commitments."
+        },
+        "s4": {
+          "no": "04",
+          "title": "How often will I receive surveys?",
+          "desc": "Survey invitations depend on your profile and the needs of each project. Some members may receive several invites per week, others less frequently."
+        },
+        "s5": {
+          "no": "05",
+          "title": "Do I have to complete every survey I receive?",
+          "desc": "No, participation is always voluntary. However, the more surveys you complete, the more rewards you can earn."
+        },
+        "s6": {
+          "no": "06",
+          "title": "Why do I get disqualified from some surveys?",
+          "desc": "Surveys may have specific demographic or behavioural requirements. If your responses don’t match the target criteria, you may be screened out."
+        },
+        "s7": {
+          "no": "07",
+          "title": "What rewards do I receive for completing surveys?",
+          "desc": "You may receive points, cash, gift cards, or other rewards, depending on the survey. Each invitation will outline the specific incentive."
+        },
+        "s8": {
+          "no": "08",
+          "title": "When do I receive my rewards?",
+          "desc": "Rewards are typically credited within a few days of successful survey completion. Timing may vary by project."
+        },
+        "s9": {
+          "no": "09",
+          "title": "Why was my survey terminated midway?",
+          "desc": "This may happen if a quota is already filled or if your responses do not meet the consistency or quality standards of the survey."
+        },
+        "s10": {
+          "no": "10",
+          "title": "Can I update my profile?",
+          "desc": "Yes, keeping your profile up to date helps ensure you receive relevant surveys. You can log in anytime to make changes."
+        },
+        "s11": {
+          "no": "11",
+          "title": "How is my personal data protected?",
+          "desc": "Your data is handled in accordance with strict privacy policies and applicable data protection laws. We never sell your information to third parties."
+        },
+        "s12": {
+          "no": "12",
+          "title": "Can I unsubscribe from the panel?",
+          "desc": "Yes, you can opt out at any time by following the unsubscribe link in any email or contacting our support team directly."
+        },
+        "s13": {
+          "no": "13",
+          "title": "What should I do if I experience technical issues with a survey?",
+          "desc": "Please contact our support team with the survey link and a description of the issue. We’ll investigate and assist promptly."
+        },
+        "s14": {
+          "no": "14",
+          "title": "Can I take surveys on my phone or tablet?",
+          "desc": "Yes, most surveys are mobile-friendly, but for the best experience, we recommend using a desktop or laptop when possible."
+        },
+        "s15": {
+          "no": "15",
+          "title": "What if I miss a survey invite?",
+          "desc": "Once a survey reaches its response limit or closes, it becomes unavailable. We encourage you to check your email regularly and act quickly."
+        },
+        "s16": {
+          "no": "16",
+          "title": "Receive your rewards",
+          "desc": "Get paid via gift cards, PayPal, or other options available."
+        }
+      }
     }
   }
 }

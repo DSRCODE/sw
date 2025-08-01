@@ -98,12 +98,32 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="flex justify-center items-center border-t border-[#84828c] pt-5 gap-5">
-          <p className="text-[10px] md:text-sm text-[#84828c] text-center">
+        <div className="flex flex-col md:flex-row justify-center items-center border-t border-[#84828c] pt-5 gap-2 md:gap-5 text-center">
+          <p className="text-[10px] md:text-sm text-[#84828c]">
             {t("footer.copyright_line1")}
-            <br />
+            <br className="md:hidden" />
             {t("footer.copyright_line2")}
           </p>
+
+          {/* Divider for desktop */}
+          <span className="hidden md:inline-block text-[#84828c]">|</span>
+
+          {/* Links Section */}
+          <div className="flex gap-3 text-[10px] md:text-sm text-[#84828c]">
+            <a
+              href="/privacy-policy"
+              className="hover:text-white transition-all duration-200"
+            >
+              Privacy Policy
+            </a>
+            <span>|</span>
+            <a
+              href="/terms-and-conditions"
+              className="hover:text-white transition-all duration-200"
+            >
+              Terms & Conditions
+            </a>
+          </div>
         </div>
       </div>
     </div>

@@ -48,6 +48,7 @@
     }
   },
   "signup": {
+    "signup": "Inscrivez-vous maintenant",
     "title": "Bienvenue sur Surventix",
     "subtitle": "Inscrivez-vous pour créer votre premier compte Surventix et commencer à explorer",
     "nameLabel": "Nom",
@@ -817,6 +818,118 @@
     "researchImpact": {
       "title": "Une recherche qui fait bouger les lignes",
       "description": "En combinant ciblage intelligent, pratiques éthiques et technologie sécurisée, Surventix permet une recherche qui produit des résultats. Vous explorez le comportement des consommateurs sans risques, et passez plus vite de l’insight à l’impact — en toute confiance."
+    }
+  },
+  "panel": {
+    "herosection": {
+      "title": "Rejoignez Vortex Panel – soyez payé pour vos opinions !",
+      "subheading": "Vortex Panel n’est pas une plateforme d’échantillonnage classique — c’est le partenaire high-tech et cool dont vous aviez besoin pour vos études de marché ! Prêt à révolutionner la collecte d’insights ? Nous rassemblons une communauté dynamique pour offrir des retours authentiques."
+    },
+    "detailssection": {
+      "title": "Pourquoi Vortex ?",
+      "subheading": "Transformez vos opinions en récompenses ! Vortex Panel, c’est vous ! Participez à des sondages sympas, partagez vos points de vue et cumulez de super récompenses. Fini la monotonie : place aux échanges vrais et aux gains concrets !"
+    },
+    "cardsection": {
+      "t1": {
+        "title": "🗣 Exprimez‑vous",
+        "desc": "Gagnez des récompenses sympas rien qu’en partageant vos idées."
+      },
+      "t2": {
+        "title": "😎 Sans complications",
+        "desc": "Aucun stress — juste des sondages fun et des gains instantanés."
+      },
+      "t3": {
+        "title": "💥 Une voix puissante",
+        "desc": "Votre avis nourrit l’innovation. Et ça, ça mérite d'être récompensé !"
+      }
+    },
+    "questionsection": {
+      "header": {
+        "title": "Questions fréquemment posées",
+        "desc": "Trouvez des réponses rapides à vos doutes et préoccupations"
+      },
+      "steps": {
+        "s1": {
+          "no": "01",
+          "title": "Qu’est‑ce qu’un panel de recherche ?",
+          "desc": "Un panel de recherche est un groupe de personnes qui acceptent de participer à des sondages de marché et de partager leurs opinions sur différents sujets."
+        },
+        "s2": {
+          "no": "02",
+          "title": "Comment rejoindre le panel ?",
+          "desc": "Vous pouvez vous inscrire en remplissant le formulaire sur notre site. On vous demandera des informations basiques pour vous envoyer des sondages adaptés."
+        },
+        "s3": {
+          "no": "03",
+          "title": "Est‑ce gratuit de rejoindre ?",
+          "desc": "Oui, l’inscription est entièrement gratuite. Il n’y a aucun frais caché ni engagement obligatoire."
+        },
+        "s4": {
+          "no": "04",
+          "title": "À quelle fréquence vais‑je recevoir des sondages ?",
+          "desc": "Les invitations dépendent de votre profil et des besoins du projet. Certains reçoivent plusieurs par semaine, d'autres moins souvent."
+        },
+        "s5": {
+          "no": "05",
+          "title": "Dois‑je répondre à tous les sondages ?",
+          "desc": "Non, la participation est toujours volontaire. Mais plus vous complétez, plus vous pouvez gagner."
+        },
+        "s6": {
+          "no": "06",
+          "title": "Pourquoi suis‑je disqualifié(e) de certains sondages ?",
+          "desc": "Certains sondages exigent des critères démographiques ou comportementaux. Si vous ne correspondez pas, vous pouvez être écarté."
+        },
+        "s7": {
+          "no": "07",
+          "title": "Quelles récompenses reçois‑je pour les sondages ?",
+          "desc": "Vous pouvez recevoir des points, de l’argent, des cartes‑cadeaux ou autres incitations, selon le sondage."
+        },
+        "s8": {
+          "no": "08",
+          "title": "Quand recevrai‑je mes récompenses ?",
+          "desc": "Les récompenses sont généralement créditées quelques jours après avoir terminé un sondage avec succès."
+        },
+        "s9": {
+          "no": "09",
+          "title": "Pourquoi mon sondage s’est‑il arrêté en cours ?",
+          "desc": "Cela peut arriver si le quota est atteint ou si vos réponses ne correspondent pas aux normes de qualité."
+        },
+        "s10": {
+          "no": "10",
+          "title": "Puis‑je mettre à jour mon profil ?",
+          "desc": "Oui, vous pouvez modifier votre profil à tout moment pour recevoir des sondages adaptés."
+        },
+        "s11": {
+          "no": "11",
+          "title": "Comment mes données personnelles sont‑elles protégées ?",
+          "desc": "Vos données sont gérées selon des politiques de confidentialité strictes et les lois applicables. Elles ne sont jamais vendues."
+        },
+        "s12": {
+          "no": "12",
+          "title": "Puis‑je me désinscrire du panel ?",
+          "desc": "Oui, vous pouvez vous désinscrire à tout moment via le lien dans un e‑mail ou en contactant le support."
+        },
+        "s13": {
+          "no": "13",
+          "title": "Que faire en cas de problème technique ?",
+          "desc": "Contactez notre support avec le lien du sondage et la description du problème. Nous vous aiderons rapidement."
+        },
+        "s14": {
+          "no": "14",
+          "title": "Puis‑je faire les sondages sur mobile ou tablette ?",
+          "desc": "Oui, la plupart des sondages sont compatibles ; pour une meilleure expérience, utilisez un ordinateur quand possible."
+        },
+        "s15": {
+          "no": "15",
+          "title": "Que faire si je rate une invitation ?",
+          "desc": "Une fois qu’un sondage atteint sa limite ou est fermé, il devient indisponible. Vérifiez vos e‑mails régulièrement."
+        },
+        "s16": {
+          "no": "16",
+          "title": "Recevez vos récompenses",
+          "desc": "Recevez votre paiement via cartes‑cadeaux, PayPal ou autres options disponibles."
+        }
+      }
     }
   }
 }

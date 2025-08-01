@@ -150,9 +150,11 @@ const Page = () => {
                 {t("careerPage.kickstartDesc")}
               </p>
               <div className="mt-10 flex flex-col gap-4">
-                {benefits.map((item) => (
+                {/* {benefits.map((item) => (
                   <FAQcard key={item.id} item={item} />
-                ))}
+                ))} */}
+                {Array.isArray(benefits) &&
+                  benefits.map((item) => <FAQcard key={item.id} item={item} />)}
               </div>
             </div>
           </div>

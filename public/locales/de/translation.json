@@ -48,6 +48,7 @@
     }
   },
   "signup": {
+    "signup": "Jetzt registrieren ",
     "title": "Willkommen bei Surventix",
     "subtitle": "Registrieren Sie sich, um Ihr erstes Konto bei Surventix zu erstellen und zu starten",
     "nameLabel": "Name",
@@ -800,5 +801,118 @@
       "title": "Forschung, die Wirkung zeigt",
       "description": "Intelligente Zielgruppenwahl, ethisches Vorgehen und sichere Technologie – so entsteht Forschung, die echte Ergebnisse liefert. Surventix bringt Sie schneller von der Erkenntnis zur Umsetzung – mit Sicherheit auf jedem Schritt."
     }
+  },
+  "panel": {
+    "herosection": {
+      "title": "Tritt Vortex Panel bei – verdiene Geld für deine Gedanken!",
+      "subheading": "Vortex Panel ist nicht irgendein Online-Sampling-Unternehmen – es ist der coole, tech-affine Sidekick, den deine Marktforschung gebraucht hat! Bereit, neue Wege bei der Insight-Gewinnung zu gehen? Wir vereinen eine dynamische Community, die Feedback liefert, das echt und echt wertvoll ist."
+    },
+    "detailssection": {
+      "title": "Warum Vortex?",
+      "subheading": "Verwandle deine Meinung in Belohnungen – Vortex Panel ruft DICH! Mache unterhaltsame Umfragen mit, teile deine Meinung und sammle großartige Prämien. Kein langweiliges Zeug – nur echte Gespräche und echte Vorteile!"
+    },
+    "cardsection": {
+      "t1": {
+        "title": "🗣 Sag deine Meinung",
+        "desc": "Verdiene coole Belohnungen allein dadurch, dass du deine Gedanken teilst."
+      },
+      "t2": {
+        "title": "😎 Kein Aufwand",
+        "desc": "Kein Stress – nur spaßige Umfragen und sofortige Belohnung."
+      },
+      "t3": {
+        "title": "💥 Mächtige Stimme",
+        "desc": "Dein Feedback treibt Innovation. Dafür wirst du belohnt!"
+      }
+    },
+    "questionsection": {
+      "header": {
+        "title": "Häufig gestellte Fragen",
+        "desc": "Finde schnelle Antworten auf deine häufigsten Fragen"
+      },
+      "steps": {
+        "s1": {
+          "no": "01",
+          "title": "Was ist ein Forschungs‑Panel?",
+          "desc": "Ein Forschungs‑Panel ist eine Gruppe von Personen, die sich bereiterklären, an Marktforschungsumfragen teilzunehmen und ihre Meinung zu verschiedenen Themen zu teilen."
+        },
+        "s2": {
+          "no": "02",
+          "title": "Wie trete ich dem Panel bei?",
+          "desc": "Du kannst dich anmelden, indem du das Registrierungsformular auf unserer Website ausfüllst. Es werden grundlegende Informationen abgefragt, um passende Umfragen zuzuordnen."
+        },
+        "s3": {
+          "no": "03",
+          "title": "Ist die Teilnahme kostenlos?",
+          "desc": "Ja, die Teilnahme ist komplett kostenfrei. Es gibt keine versteckten Gebühren oder Verpflichtungen."
+        },
+        "s4": {
+          "no": "04",
+          "title": "Wie häufig erhalte ich Umfragen?",
+          "desc": "Einladungen richten sich nach deinem Profil und den Anforderungen der Projekte. Manche bekommen mehrere pro Woche, andere seltener."
+        },
+        "s5": {
+          "no": "05",
+          "title": "Muss ich jede Umfrage ausfüllen?",
+          "desc": "Nein, die Teilnahme ist immer freiwillig. Aber je mehr du ausfüllst, desto mehr Belohnungen kannst du erhalten."
+        },
+        "s6": {
+          "no": "06",
+          "title": "Warum werde ich bei manchen Umfragen disqualifiziert?",
+          "desc": "Umfragen haben spezifische demografische oder Verhaltensanforderungen. Wenn du nicht passt, wirst du eventuell ausgeschlossen."
+        },
+        "s7": {
+          "no": "07",
+          "title": "Welche Belohnungen erhalte ich?",
+          "desc": "Du kannst Punkte, Geld, Geschenkkarten oder andere Incentives erhalten, je nach Umfrage."
+        },
+        "s8": {
+          "no": "08",
+          "title": "Wann erhalte ich meine Belohnungen?",
+          "desc": "Belohnungen werden typischerweise wenige Tage nach erfolgreichem Abschluss einer Umfrage gutgeschrieben."
+        },
+        "s9": {
+          "no": "09",
+          "title": "Warum wurde meine Umfrage abgebrochen?",
+          "desc": "Das kann passieren, wenn das Kontingent voll ist oder deine Antworten die Qualitätsstandards nicht erfüllen."
+        },
+        "s10": {
+          "no": "10",
+          "title": "Kann ich mein Profil aktualisieren?",
+          "desc": "Ja, aktualisiere dein Profil jederzeit – so erhältst du relevante Umfragen."
+        },
+        "s11": {
+          "no": "11",
+          "title": "Wie werden meine persönlichen Daten geschützt?",
+          "desc": "Deine Daten werden gemäß strenger Datenschutzrichtlinien und geltender Gesetze behandelt. Wir verkaufen sie niemals."
+        },
+        "s12": {
+          "no": "12",
+          "title": "Kann ich mich vom Panel abmelden?",
+          "desc": "Ja, du kannst dich jederzeit über den Link in einer E‑Mail oder durch Kontaktaufnahme mit dem Support abmelden."
+        },
+        "s13": {
+          "no": "13",
+          "title": "Was mache ich bei technischen Problemen?",
+          "desc": "Kontaktiere unser Support-Team mit dem Umfragelink und einer Beschreibung des Problems. Wir helfen dir schnell weiter."
+        },
+        "s14": {
+          "no": "14",
+          "title": "Kann ich Umfragen mobil oder auf einem Tablet machen?",
+          "desc": "Ja, die meisten Umfragen sind mobilfreundlich – für beste Erfahrung nutze möglichst einen Desktop."
+        },
+        "s15": {
+          "no": "15",
+          "title": "Was wenn ich eine Einladung verpasse?",
+          "desc": "Sobald eine Umfrage geschlossen oder das Limit erreicht ist, ist sie nicht mehr verfügbar. Prüfe regelmäßig dein E‑Mail‑Postfach."
+        },
+        "s16": {
+          "no": "16",
+          "title": "Erhalte deine Belohnungen",
+          "desc": "Erhalte Zahlungen via Geschenkkarten, PayPal oder andere verfügbare Optionen."
+        }
+      }
+    }
+
   }
 }

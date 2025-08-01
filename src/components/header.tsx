@@ -77,7 +77,7 @@ const Header = () => {
 
         <div className="hidden md:flex items-center gap-4">
           <Link
-            href="/signin"
+            href="/panel"
             className="border-[1.5px] border-white text-white hover:bg-white hover:text-[#04021d] duration-300 transition-all ease-in-out px-8 text-lg capitalize py-2.5 rounded-4xl"
           >
             {t("join_our_panel")}
